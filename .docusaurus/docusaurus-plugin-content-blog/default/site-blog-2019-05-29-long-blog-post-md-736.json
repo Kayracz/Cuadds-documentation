@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/caos-creativo",
+  "source": "@site/blog/2019-05-29-long-blog-post.md",
+  "title": "Poniendo orden al caos creativo",
+  "description": "Hola cuadders, soy Ana, Gestora de Cuentas de Orgánica Consultoría, una agencia de marketing amante de Cuadds.",
+  "date": "2019-05-29T00:00:00.000Z",
+  "formattedDate": "May 29, 2019",
+  "tags": [
+    {
+      "label": "productividad",
+      "permalink": "/blog/tags/productividad"
+    },
+    {
+      "label": "trabajoenequipo",
+      "permalink": "/blog/tags/trabajoenequipo"
+    }
+  ],
+  "readingTime": 2.405,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ana Paola Hornez Rivera",
+      "title": "Organica",
+      "url": "https://www.linkedin.com/in/ana-paola-hornez-rivera-a475871b/",
+      "imageURL": "https://media.licdn.com/dms/image/D4E03AQHuCNfERj_qgA/profile-displayphoto-shrink_800_800/0/1685385559192?e=1698883200&v=beta&t=I3LXtXXDk1MnrNCCoXYcelum-e4sNJLatasVGUxT4EI",
+      "key": "Ana"
+    }
+  ],
+  "frontMatter": {
+    "slug": "caos-creativo",
+    "title": "Poniendo orden al caos creativo",
+    "authors": [
+      "Ana"
+    ],
+    "tags": [
+      "productividad",
+      "trabajoenequipo"
+    ]
+  },
+  "prevItem": {
+    "title": "Welcome to our Cuadd tutorials!",
+    "permalink": "/blog/welcome"
+  },
+  "nextItem": {
+    "title": "El Poder de la Flexibilidad",
+    "permalink": "/blog/el-poder-de-la-flexibilidad"
+  }
+}

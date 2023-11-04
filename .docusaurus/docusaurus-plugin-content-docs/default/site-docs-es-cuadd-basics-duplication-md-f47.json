@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Basics/Duplication",
+  "id": "es/Cuadd Basics/Duplication",
+  "title": "Duplication",
+  "description": "",
+  "source": "@site/docs/es/Cuadd Basics/Duplication.md",
+  "sourceDirName": "es/Cuadd Basics",
+  "slug": "/es/Cuadd Basics/Duplication",
+  "permalink": "/docs/es/Cuadd Basics/Duplication",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Reflections",
+    "permalink": "/docs/es/Cuadd Basics/Reflections"
+  },
+  "next": {
+    "title": "Settings",
+    "permalink": "/docs/es/Cuadd Basics/Settings"
+  }
+}

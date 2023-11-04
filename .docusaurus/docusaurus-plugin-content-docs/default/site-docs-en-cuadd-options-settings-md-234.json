@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Options/Settings",
+  "id": "en/Cuadd Options/Settings",
+  "title": "Settings",
+  "description": "In order to have an overview of your Cuadds account, you can access your settings menu by clicking on  the three lined icon on your navigation bar",
+  "source": "@site/docs/en/Cuadd Options/Settings.md",
+  "sourceDirName": "en/Cuadd Options",
+  "slug": "/en/Cuadd Options/Settings",
+  "permalink": "/docs/en/Cuadd Options/Settings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Duplication",
+    "permalink": "/docs/en/Cuadd Options/Duplication"
+  },
+  "next": {
+    "title": "Deleting",
+    "permalink": "/docs/en/Cuadd Options/Deletion"
+  }
+}

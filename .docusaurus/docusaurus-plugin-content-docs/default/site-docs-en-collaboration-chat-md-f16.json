@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Collaboration/Chat",
+  "id": "en/Collaboration/Chat",
+  "title": "Chat with your team",
+  "description": "Inside any Cuadd, you will see this icon:",
+  "source": "@site/docs/en/Collaboration/Chat.md",
+  "sourceDirName": "en/Collaboration",
+  "slug": "/en/Collaboration/Chat",
+  "permalink": "/docs/en/Collaboration/Chat",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Add your team members",
+    "permalink": "/docs/en/Collaboration/AddYourTeam"
+  },
+  "next": {
+    "title": "Plans and Subscriptions",
+    "permalink": "/docs/en/PlansAndSubscriptions/"
+  }
+}

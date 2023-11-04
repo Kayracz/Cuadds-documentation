@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Basics/Styling",
+  "id": "en/Cuadd Basics/Styling",
+  "title": "Styling",
+  "description": "Place your cursor over a cuadd (or tap on it in mobile devices) to view your styling options.",
+  "source": "@site/docs/en/Cuadd Basics/Styling.md",
+  "sourceDirName": "en/Cuadd Basics",
+  "slug": "/en/Cuadd Basics/Styling",
+  "permalink": "/docs/en/Cuadd Basics/Styling",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Tasks and Notes",
+    "permalink": "/docs/en/Cuadd Basics/TaskAndNote"
+  },
+  "next": {
+    "title": "Option menu",
+    "permalink": "/docs/en/Cuadd Basics/CuaddOptionMenu"
+  }
+}

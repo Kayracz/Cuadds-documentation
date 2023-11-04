@@ -1,0 +1,20 @@
+{
+  "unversionedId": "en/Plans and Subscriptions/Plans and Subsriptions",
+  "id": "en/Plans and Subscriptions/Plans and Subsriptions",
+  "title": "Plans and Subscriptions",
+  "description": "What you get with Early Supporter",
+  "source": "@site/docs/en/Plans and Subscriptions/Plans and Subsriptions.md",
+  "sourceDirName": "en/Plans and Subscriptions",
+  "slug": "/en/Plans and Subscriptions/Plans and Subsriptions",
+  "permalink": "/docs/en/Plans and Subscriptions/Plans and Subsriptions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/en/Plans and Subscriptions/Plans and Subsriptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Chat",
+    "permalink": "/docs/en/Collaboration/Chat"
+  }
+}

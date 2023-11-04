@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Basics/TaskAndNote",
+  "id": "en/Cuadd Basics/TaskAndNote",
+  "title": "Tasks and Notes",
+  "description": "By clicking anywhere on the grid, two elements will appear: a note and a task.",
+  "source": "@site/docs/en/Cuadd Basics/TaskAndNote.md",
+  "sourceDirName": "en/Cuadd Basics",
+  "slug": "/en/Cuadd Basics/TaskAndNote",
+  "permalink": "/docs/en/Cuadd Basics/TaskAndNote",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "What is a Cuadd?",
+    "permalink": "/docs/en/intro"
+  },
+  "next": {
+    "title": "Styling",
+    "permalink": "/docs/en/Cuadd Basics/Styling"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Basics/Deletion",
+  "id": "en/Cuadd Basics/Deletion",
+  "title": "Deleting",
+  "description": "To delete Cuadds, you can individually select the option menu for each Cuadd and delete them one by one.",
+  "source": "@site/docs/en/Cuadd Basics/Deletion.md",
+  "sourceDirName": "en/Cuadd Basics",
+  "slug": "/en/Cuadd Basics/Deletion",
+  "permalink": "/docs/en/Cuadd Basics/Deletion",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/docs/en/Cuadd Basics/Settings"
+  },
+  "next": {
+    "title": "Add your team members",
+    "permalink": "/docs/en/Collaboration/AddYourTeam"
+  }
+}

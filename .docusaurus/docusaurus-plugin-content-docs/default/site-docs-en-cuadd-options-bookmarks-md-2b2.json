@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Options/Bookmarks",
+  "id": "en/Cuadd Options/Bookmarks",
+  "title": "Bookmarks",
+  "description": "Add your favorite Cuadds to your bookmarks navigation bar!",
+  "source": "@site/docs/en/Cuadd Options/Bookmarks.md",
+  "sourceDirName": "en/Cuadd Options",
+  "slug": "/en/Cuadd Options/Bookmarks",
+  "permalink": "/docs/en/Cuadd Options/Bookmarks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Option menu",
+    "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu"
+  },
+  "next": {
+    "title": "Calendar",
+    "permalink": "/docs/en/Cuadd Options/Calendar"
+  }
+}

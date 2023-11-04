@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Basics/Styling",
+  "id": "es/Cuadd Basics/Styling",
+  "title": "Styling",
+  "description": "",
+  "source": "@site/docs/es/Cuadd Basics/Styling.md",
+  "sourceDirName": "es/Cuadd Basics",
+  "slug": "/es/Cuadd Basics/Styling",
+  "permalink": "/docs/es/Cuadd Basics/Styling",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Tasks and Notes",
+    "permalink": "/docs/es/Cuadd Basics/TaskAndNote"
+  },
+  "next": {
+    "title": "Option menu",
+    "permalink": "/docs/es/Cuadd Basics/CuaddOptionMenu"
+  }
+}

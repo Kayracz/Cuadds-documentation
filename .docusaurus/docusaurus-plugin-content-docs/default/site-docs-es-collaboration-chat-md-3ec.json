@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Collaboration/Chat",
+  "id": "es/Collaboration/Chat",
+  "title": "Chatea con tu equipo",
+  "description": "Dentro de cualquier Cuadd, verás este ícono:",
+  "source": "@site/docs/es/Collaboration/Chat.md",
+  "sourceDirName": "es/Collaboration",
+  "slug": "/es/Collaboration/Chat",
+  "permalink": "/docs/es/Collaboration/Chat",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Invita a tus compañeros de equipo",
+    "permalink": "/docs/es/Collaboration/AddYourTeam"
+  },
+  "next": {
+    "title": "Planes y Suscripciones",
+    "permalink": "/docs/es/PlansAndSubscriptions/"
+  }
+}

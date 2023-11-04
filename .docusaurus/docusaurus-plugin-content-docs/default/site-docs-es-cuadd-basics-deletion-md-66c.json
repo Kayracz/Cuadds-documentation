@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Basics/Deletion",
+  "id": "es/Cuadd Basics/Deletion",
+  "title": "Deleting",
+  "description": "",
+  "source": "@site/docs/es/Cuadd Basics/Deletion.md",
+  "sourceDirName": "es/Cuadd Basics",
+  "slug": "/es/Cuadd Basics/Deletion",
+  "permalink": "/docs/es/Cuadd Basics/Deletion",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/docs/es/Cuadd Basics/Settings"
+  },
+  "next": {
+    "title": "AddYourTeam",
+    "permalink": "/docs/es/Collaboration/AddYourTeam"
+  }
+}

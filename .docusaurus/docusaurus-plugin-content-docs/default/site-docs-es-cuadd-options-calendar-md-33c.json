@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/Calendar",
+  "id": "es/Cuadd Options/Calendar",
+  "title": "Calendario",
+  "description": "En ocasiones, es posible que deseemos visualizar nuestros Cuadds en un calendario, establecer fechas y horas de vencimiento para proyectos, eventos y más.",
+  "source": "@site/docs/es/Cuadd Options/Calendar.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/Calendar",
+  "permalink": "/docs/es/Cuadd Options/Calendar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Marcadores",
+    "permalink": "/docs/es/Cuadd Options/Bookmarks"
+  },
+  "next": {
+    "title": "Movimiento",
+    "permalink": "/docs/es/Cuadd Options/Movement"
+  }
+}

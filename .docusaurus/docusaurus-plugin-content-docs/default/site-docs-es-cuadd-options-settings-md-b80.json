@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/Settings",
+  "id": "es/Cuadd Options/Settings",
+  "title": "Settings",
+  "description": "",
+  "source": "@site/docs/es/Cuadd Options/Settings.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/Settings",
+  "permalink": "/es/docs/es/Cuadd Options/Settings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Duplicación",
+    "permalink": "/es/docs/es/Cuadd Options/Duplication"
+  },
+  "next": {
+    "title": "Eliminar",
+    "permalink": "/es/docs/es/Cuadd Options/Deletion"
+  }
+}

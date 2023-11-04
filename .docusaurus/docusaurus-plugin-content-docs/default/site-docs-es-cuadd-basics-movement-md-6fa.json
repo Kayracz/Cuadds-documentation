@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Basics/Movement",
+  "id": "es/Cuadd Basics/Movement",
+  "title": "Movement",
+  "description": "",
+  "source": "@site/docs/es/Cuadd Basics/Movement.md",
+  "sourceDirName": "es/Cuadd Basics",
+  "slug": "/es/Cuadd Basics/Movement",
+  "permalink": "/docs/es/Cuadd Basics/Movement",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Calendar",
+    "permalink": "/docs/es/Cuadd Basics/Calendar"
+  },
+  "next": {
+    "title": "Files",
+    "permalink": "/docs/es/Cuadd Basics/Files"
+  }
+}

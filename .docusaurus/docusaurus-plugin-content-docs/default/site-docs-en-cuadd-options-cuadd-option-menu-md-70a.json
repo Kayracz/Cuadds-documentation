@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Options/CuaddOptionMenu",
+  "id": "en/Cuadd Options/CuaddOptionMenu",
+  "title": "Option menu",
+  "description": "1. Place your cursor over a cuadd (or tap on it in mobile devices) to view your options.",
+  "source": "@site/docs/en/Cuadd Options/CuaddOptionMenu.md",
+  "sourceDirName": "en/Cuadd Options",
+  "slug": "/en/Cuadd Options/CuaddOptionMenu",
+  "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Styling",
+    "permalink": "/docs/en/Cuadd Options/Styling"
+  },
+  "next": {
+    "title": "Bookmarks",
+    "permalink": "/docs/en/Cuadd Options/Bookmarks"
+  }
+}

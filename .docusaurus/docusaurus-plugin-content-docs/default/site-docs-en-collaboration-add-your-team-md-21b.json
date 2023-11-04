@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Collaboration/AddYourTeam",
+  "id": "en/Collaboration/AddYourTeam",
+  "title": "Add your team members",
+  "description": "Inside each Cuadd you will see this icon:",
+  "source": "@site/docs/en/Collaboration/AddYourTeam.md",
+  "sourceDirName": "en/Collaboration",
+  "slug": "/en/Collaboration/AddYourTeam",
+  "permalink": "/docs/en/Collaboration/AddYourTeam",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Deleting",
+    "permalink": "/docs/en/Cuadd Options/Deletion"
+  },
+  "next": {
+    "title": "Chat with your team",
+    "permalink": "/docs/en/Collaboration/Chat"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "es/Plans and Subscriptions/Plans and Subsriptions",
+  "id": "es/Plans and Subscriptions/Plans and Subsriptions",
+  "title": "Planes y Suscripciones",
+  "description": "",
+  "source": "@site/docs/es/Plans and Subscriptions/Plans and Subsriptions.md",
+  "sourceDirName": "es/Plans and Subscriptions",
+  "slug": "/es/Plans and Subscriptions/Plans and Subsriptions",
+  "permalink": "/docs/es/Plans and Subscriptions/Plans and Subsriptions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/es/Plans and Subscriptions/Plans and Subsriptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

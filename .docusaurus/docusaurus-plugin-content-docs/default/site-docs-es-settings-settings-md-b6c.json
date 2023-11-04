@@ -1,0 +1,19 @@
+{
+  "unversionedId": "es/Settings/Settings",
+  "id": "es/Settings/Settings",
+  "title": "Configuración",
+  "description": "Para obtener una visión general de tu cuenta de Cuadds, puedes acceder al menú de configuración haciendo clic en el ícono de tres líneas en tu barra de navegación.",
+  "source": "@site/docs/es/Settings/Settings.md",
+  "sourceDirName": "es/Settings",
+  "slug": "/es/Settings/",
+  "permalink": "/docs/es/Settings/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Planes y Suscripciones",
+    "permalink": "/docs/es/PlansAndSubscriptions/"
+  }
+}

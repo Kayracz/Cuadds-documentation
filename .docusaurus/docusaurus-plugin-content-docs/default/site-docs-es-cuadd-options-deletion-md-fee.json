@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/Deletion",
+  "id": "es/Cuadd Options/Deletion",
+  "title": "Eliminar",
+  "description": "Para eliminar Cuadds, puedes seleccionar individualmente el menú de opciones para cada Cuadd y eliminarlos uno por uno.",
+  "source": "@site/docs/es/Cuadd Options/Deletion.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/Deletion",
+  "permalink": "/docs/es/Cuadd Options/Deletion",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Duplicación",
+    "permalink": "/docs/es/Cuadd Options/Duplication"
+  },
+  "next": {
+    "title": "Invita a tus compañeros de equipo",
+    "permalink": "/docs/es/Collaboration/AddYourTeam"
+  }
+}

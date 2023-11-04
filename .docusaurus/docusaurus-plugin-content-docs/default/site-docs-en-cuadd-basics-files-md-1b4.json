@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Basics/Files",
+  "id": "en/Cuadd Basics/Files",
+  "title": "Files",
+  "description": "Add your pictures, videos, or any type of file to your Cuadds!",
+  "source": "@site/docs/en/Cuadd Basics/Files.md",
+  "sourceDirName": "en/Cuadd Basics",
+  "slug": "/en/Cuadd Basics/Files",
+  "permalink": "/docs/en/Cuadd Basics/Files",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Movement",
+    "permalink": "/docs/en/Cuadd Basics/Movement"
+  },
+  "next": {
+    "title": "Reflections",
+    "permalink": "/docs/en/Cuadd Basics/Reflections"
+  }
+}

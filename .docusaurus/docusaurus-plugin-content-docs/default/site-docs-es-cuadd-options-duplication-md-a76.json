@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/Duplication",
+  "id": "es/Cuadd Options/Duplication",
+  "title": "Duplicación",
+  "description": "Para copiar o duplicar un Cuadd y crear uno nuevo con la misma información, puedes utilizar el botón \"Duplicar en...\" en el menú de opciones de los Cuadds. Esto creará una copia del Cuadd en el que te encuentras.",
+  "source": "@site/docs/es/Cuadd Options/Duplication.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/Duplication",
+  "permalink": "/docs/es/Cuadd Options/Duplication",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Reflejos",
+    "permalink": "/docs/es/Cuadd Options/Reflections"
+  },
+  "next": {
+    "title": "Eliminar",
+    "permalink": "/docs/es/Cuadd Options/Deletion"
+  }
+}

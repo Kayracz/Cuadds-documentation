@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/TaskAndNote",
+  "id": "es/Cuadd Options/TaskAndNote",
+  "title": "Tareas y/o notas",
+  "description": "Al hacer clic en cualquier lugar de la grilla en cuadds, aparecerán dos elementos: una nota y una tarea.",
+  "source": "@site/docs/es/Cuadd Options/TaskAndNote.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/TaskAndNote",
+  "permalink": "/docs/es/Cuadd Options/TaskAndNote",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "¿Qué es un cuadd?",
+    "permalink": "/docs/es/intro"
+  },
+  "next": {
+    "title": "Estilo",
+    "permalink": "/docs/es/Cuadd Options/Styling"
+  }
+}

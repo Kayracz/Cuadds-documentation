@@ -1,0 +1,44 @@
+{
+  "permalink": "/es/blog/el-poder-de-la-flexibilidad",
+  "source": "@site/i18n/es/docusaurus-plugin-content-blog/2019-05-28-first-blog-post.md",
+  "title": "El Poder de la Flexibilidad",
+  "description": "¡Hola a todos los fans del trabajo y la productividad! Hoy queremos hablarles sobre un tema clave en el mundo laboral: la flexibilidad en la organización de tareas. ¿Alguna vez te has sentido limitado por un enfoque de \"talla única\" para la gestión de proyectos? ¿Te has dado cuenta de que eso puede apagar tu creatividad y disminuir tu productividad?",
+  "date": "2019-05-28T00:00:00.000Z",
+  "formattedDate": "28 de mayo de 2019",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/es/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/es/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.425,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kayra Czerniewicz",
+      "title": "Front-end developer @Cuadds",
+      "url": "https://www.linkedin.com/in/kayracz/",
+      "imageURL": "https://media.licdn.com/dms/image/C4E03AQEAgg-Aq2g2Kw/profile-displayphoto-shrink_800_800/0/1662415552888?e=1698883200&v=beta&t=3r2IHiG45GTILfExMqnhli-EIQUBXIjm4483375aXQQ",
+      "key": "Kay"
+    }
+  ],
+  "frontMatter": {
+    "slug": "el-poder-de-la-flexibilidad",
+    "title": "El Poder de la Flexibilidad",
+    "authors": [
+      "Kay"
+    ],
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "prevItem": {
+    "title": "Poniendo orden al caos creativo HOLAA",
+    "permalink": "/es/blog/caos-creativo"
+  }
+}

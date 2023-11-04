@@ -1,0 +1,22 @@
+{
+  "unversionedId": "es/intro",
+  "id": "es/intro",
+  "title": "¿Qué es un cuadd?",
+  "description": "Un “cuadd” es el elemento cuadrilateral base de la app que se puede transformar en cualquier cosa: un link, una tarea, una nota, un archivo y mucho más. Usa combinaciones de ellos para ver magia!",
+  "source": "@site/docs/es/intro.md",
+  "sourceDirName": "es",
+  "slug": "/es/intro",
+  "permalink": "/docs/es/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "displayed_sidebar": "es"
+  },
+  "sidebar": "es",
+  "next": {
+    "title": "Tareas y/o notas",
+    "permalink": "/docs/es/Cuadd Options/TaskAndNote"
+  }
+}

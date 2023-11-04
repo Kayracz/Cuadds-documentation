@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/PlansAndSubscriptions/PlansAndSubsriptions",
+  "id": "es/PlansAndSubscriptions/PlansAndSubsriptions",
+  "title": "Planes y Suscripciones",
+  "description": "hola",
+  "source": "@site/docs/es/PlansAndSubscriptions/PlansAndSubsriptions.md",
+  "sourceDirName": "es/PlansAndSubscriptions",
+  "slug": "/es/PlansAndSubscriptions/PlansAndSubsriptions",
+  "permalink": "/es/docs/es/PlansAndSubscriptions/PlansAndSubsriptions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Chat",
+    "permalink": "/es/docs/es/Collaboration/Chat"
+  },
+  "next": {
+    "title": "Configuración",
+    "permalink": "/es/docs/es/Settings/"
+  }
+}

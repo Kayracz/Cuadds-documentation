@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/Files",
+  "id": "es/Cuadd Options/Files",
+  "title": "Archivos",
+  "description": "¡Agrega tus imágenes, videos o cualquier tipo de archivo a tus Cuadds!",
+  "source": "@site/docs/es/Cuadd Options/Files.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/Files",
+  "permalink": "/docs/es/Cuadd Options/Files",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Movimiento",
+    "permalink": "/docs/es/Cuadd Options/Movement"
+  },
+  "next": {
+    "title": "Reflejos",
+    "permalink": "/docs/es/Cuadd Options/Reflections"
+  }
+}

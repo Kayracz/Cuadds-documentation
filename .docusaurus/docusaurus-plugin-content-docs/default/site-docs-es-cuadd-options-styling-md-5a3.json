@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/Styling",
+  "id": "es/Cuadd Options/Styling",
+  "title": "Estilo",
+  "description": "Coloque el cursor sobre un cuadd (o tóquelo en dispositivos móviles) para ver sus opciones de estilo.",
+  "source": "@site/docs/es/Cuadd Options/Styling.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/Styling",
+  "permalink": "/docs/es/Cuadd Options/Styling",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Tareas y/o notas",
+    "permalink": "/docs/es/Cuadd Options/TaskAndNote"
+  },
+  "next": {
+    "title": "Menú de opciones",
+    "permalink": "/docs/es/Cuadd Options/CuaddOptionMenu"
+  }
+}

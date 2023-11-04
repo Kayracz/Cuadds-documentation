@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Basics/Calendar",
+  "id": "en/Cuadd Basics/Calendar",
+  "title": "Calendar",
+  "description": "Sometimes, we may want to visualize our Cuadds on a calendar, set due dates and times for projects, events, and more.",
+  "source": "@site/docs/en/Cuadd Basics/Calendar.md",
+  "sourceDirName": "en/Cuadd Basics",
+  "slug": "/en/Cuadd Basics/Calendar",
+  "permalink": "/docs/en/Cuadd Basics/Calendar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Bookmarks",
+    "permalink": "/docs/en/Cuadd Basics/Bookmarks"
+  },
+  "next": {
+    "title": "Movement",
+    "permalink": "/docs/en/Cuadd Basics/Movement"
+  }
+}

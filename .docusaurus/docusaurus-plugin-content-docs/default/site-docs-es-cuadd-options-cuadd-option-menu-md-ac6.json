@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Options/CuaddOptionMenu",
+  "id": "es/Cuadd Options/CuaddOptionMenu",
+  "title": "Menú de opciones",
+  "description": "1. Coloque el cursor sobre un cuadro (o tóquelo en dispositivos móviles) para ver sus opciones.",
+  "source": "@site/docs/es/Cuadd Options/CuaddOptionMenu.md",
+  "sourceDirName": "es/Cuadd Options",
+  "slug": "/es/Cuadd Options/CuaddOptionMenu",
+  "permalink": "/docs/es/Cuadd Options/CuaddOptionMenu",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Estilo",
+    "permalink": "/docs/es/Cuadd Options/Styling"
+  },
+  "next": {
+    "title": "Marcadores",
+    "permalink": "/docs/es/Cuadd Options/Bookmarks"
+  }
+}

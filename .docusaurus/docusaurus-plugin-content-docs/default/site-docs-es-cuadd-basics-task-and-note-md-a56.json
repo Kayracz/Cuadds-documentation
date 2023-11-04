@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Basics/TaskAndNote",
+  "id": "es/Cuadd Basics/TaskAndNote",
+  "title": "Tasks and Notes",
+  "description": "Proximo articulo",
+  "source": "@site/docs/es/Cuadd Basics/TaskAndNote.md",
+  "sourceDirName": "es/Cuadd Basics",
+  "slug": "/es/Cuadd Basics/TaskAndNote",
+  "permalink": "/docs/es/Cuadd Basics/TaskAndNote",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "¿Qué es un cuadd?",
+    "permalink": "/docs/es/intro"
+  },
+  "next": {
+    "title": "Styling",
+    "permalink": "/docs/es/Cuadd Basics/Styling"
+  }
+}

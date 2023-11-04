@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Basics/Movement",
+  "id": "en/Cuadd Basics/Movement",
+  "title": "Movement",
+  "description": "To move our Cuadds from one Cuadd to another, we can do this by clicking on the \"Move to\" button in the cuadd option menu.",
+  "source": "@site/docs/en/Cuadd Basics/Movement.md",
+  "sourceDirName": "en/Cuadd Basics",
+  "slug": "/en/Cuadd Basics/Movement",
+  "permalink": "/docs/en/Cuadd Basics/Movement",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Calendar",
+    "permalink": "/docs/en/Cuadd Basics/Calendar"
+  },
+  "next": {
+    "title": "Files",
+    "permalink": "/docs/en/Cuadd Basics/Files"
+  }
+}

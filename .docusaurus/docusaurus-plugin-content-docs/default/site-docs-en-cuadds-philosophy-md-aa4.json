@@ -1,0 +1,14 @@
+{
+  "unversionedId": "en/cuaddsPhilosophy",
+  "id": "en/cuaddsPhilosophy",
+  "title": "Cuadds Philosophy",
+  "description": "",
+  "source": "@site/docs/en/cuaddsPhilosophy.md",
+  "sourceDirName": "en",
+  "slug": "/en/cuaddsPhilosophy",
+  "permalink": "/docs/en/cuaddsPhilosophy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

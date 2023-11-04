@@ -1,0 +1,57 @@
+{
+  "permalink": "/es/blog/HOLAAA",
+  "source": "@site/i18n/es/docusaurus-plugin-content-blog/2021-08-26-welcome/index.md",
+  "title": "Welcome to our Cuadd tutorials!",
+  "description": "Welcome to our Cuadds blog!",
+  "date": "2021-08-26T00:00:00.000Z",
+  "formattedDate": "26 de agosto de 2021",
+  "tags": [
+    {
+      "label": "Cuadds",
+      "permalink": "/es/blog/tags/cuadds"
+    },
+    {
+      "label": "Productivity",
+      "permalink": "/es/blog/tags/productivity"
+    },
+    {
+      "label": "Blog",
+      "permalink": "/es/blog/tags/blog"
+    }
+  ],
+  "readingTime": 0.94,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kayra Czerniewicz",
+      "title": "Front-end developer @Cuadds",
+      "url": "https://www.linkedin.com/in/kayracz/",
+      "imageURL": "https://media.licdn.com/dms/image/C4E03AQEAgg-Aq2g2Kw/profile-displayphoto-shrink_800_800/0/1662415552888?e=1698883200&v=beta&t=3r2IHiG45GTILfExMqnhli-EIQUBXIjm4483375aXQQ",
+      "key": "Kay"
+    },
+    {
+      "name": "Santiago Puente",
+      "title": "Founder @Cuadds",
+      "url": "https://www.linkedin.com/in/santiagopuente/",
+      "imageURL": "https://media.licdn.com/dms/image/C4D03AQEe4zcCtvWqiw/profile-displayphoto-shrink_800_800/0/1517372115947?e=1698883200&v=beta&t=gEmTuHb78_7ECGP5mbFaUmdEwqEkXCTtR39zU1WM8Go",
+      "key": "Santi"
+    }
+  ],
+  "frontMatter": {
+    "slug": "HOLAAA",
+    "title": "Welcome to our Cuadd tutorials!",
+    "authors": [
+      "Kay",
+      "Santi"
+    ],
+    "tags": [
+      "Cuadds",
+      "Productivity",
+      "Blog"
+    ]
+  },
+  "nextItem": {
+    "title": "Poniendo orden al caos creativo HOLAA",
+    "permalink": "/es/blog/caos-creativo"
+  }
+}

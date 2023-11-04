@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/Cuadd Basics/Reflections",
+  "id": "en/Cuadd Basics/Reflections",
+  "title": "Reflections",
+  "description": "\"Reflections\" serve as mirrors to your original Cuadds. Cuadds in the form of reflections will be accessible copies of your Cuadd. Any action you perform in your reflections or on your original Cuadd will be reflected across all of them. They are a great way to share information to other collaborators in other cuadds without having to copy",
+  "source": "@site/docs/en/Cuadd Basics/Reflections.md",
+  "sourceDirName": "en/Cuadd Basics",
+  "slug": "/en/Cuadd Basics/Reflections",
+  "permalink": "/docs/en/Cuadd Basics/Reflections",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Files",
+    "permalink": "/docs/en/Cuadd Basics/Files"
+  },
+  "next": {
+    "title": "Duplication",
+    "permalink": "/docs/en/Cuadd Basics/Duplication"
+  }
+}

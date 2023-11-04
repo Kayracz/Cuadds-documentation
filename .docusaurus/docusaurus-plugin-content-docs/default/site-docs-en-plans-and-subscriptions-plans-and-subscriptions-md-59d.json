@@ -1,0 +1,23 @@
+{
+  "unversionedId": "en/PlansAndSubscriptions/PlansAndSubscriptions",
+  "id": "en/PlansAndSubscriptions/PlansAndSubscriptions",
+  "title": "Plans and Subscriptions",
+  "description": "Early Supporter Plan",
+  "source": "@site/docs/en/PlansAndSubscriptions/PlansAndSubscriptions.md",
+  "sourceDirName": "en/PlansAndSubscriptions",
+  "slug": "/en/PlansAndSubscriptions/",
+  "permalink": "/docs/en/PlansAndSubscriptions/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "en",
+  "previous": {
+    "title": "Chat with your team",
+    "permalink": "/docs/en/Collaboration/Chat"
+  },
+  "next": {
+    "title": "Settings",
+    "permalink": "/docs/en/Settings/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Basics/Files",
+  "id": "es/Cuadd Basics/Files",
+  "title": "Files",
+  "description": "",
+  "source": "@site/docs/es/Cuadd Basics/Files.md",
+  "sourceDirName": "es/Cuadd Basics",
+  "slug": "/es/Cuadd Basics/Files",
+  "permalink": "/docs/es/Cuadd Basics/Files",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Movement",
+    "permalink": "/docs/es/Cuadd Basics/Movement"
+  },
+  "next": {
+    "title": "Reflections",
+    "permalink": "/docs/es/Cuadd Basics/Reflections"
+  }
+}

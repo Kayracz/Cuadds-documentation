@@ -1,0 +1,23 @@
+{
+  "unversionedId": "es/Cuadd Basics/Bookmarks",
+  "id": "es/Cuadd Basics/Bookmarks",
+  "title": "Bookmarks",
+  "description": "",
+  "source": "@site/docs/es/Cuadd Basics/Bookmarks.md",
+  "sourceDirName": "es/Cuadd Basics",
+  "slug": "/es/Cuadd Basics/Bookmarks",
+  "permalink": "/docs/es/Cuadd Basics/Bookmarks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "es",
+  "previous": {
+    "title": "Option menu",
+    "permalink": "/docs/es/Cuadd Basics/CuaddOptionMenu"
+  },
+  "next": {
+    "title": "Calendar",
+    "permalink": "/docs/es/Cuadd Basics/Calendar"
+  }
+}
