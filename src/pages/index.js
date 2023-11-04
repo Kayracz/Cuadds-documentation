@@ -1,18 +1,24 @@
-import React from 'react';
-import { Redirect } from 'react-router-dom';
+import React, { useEffect } from 'react';
 
 export default function Home() {
-  // Getting the current language from the URL
-  const currentLanguage = window.location.pathname.split('/')[1];
+  useEffect(() => {
+    // Getting the current language from the URL on the client-side
+    const currentLanguage = window.location.pathname.split('/')[1];
 
-  const languagePaths = {
-    en: '/docs/intro',
-    es: '/es/docs/intro',
-  };
+    const languagePaths = {
+      en: '/docs/intro',
+      es: '/es/docs/intro',
+    };
 
-  // Constructing the redirection URL
-  const redirectionURL = languagePaths[currentLanguage] || '/docs/intro';
+    // Constructing the redirection URL
+    const redirectionURL = languagePaths[currentLanguage] || '/docs/intro';
 
-  // Redirect to the appropriate language-specific URL
-  return <Redirect to={redirectionURL} />;
+    // Redirect to the appropriate language-specific URL
+    if (window.location.pathname !== redirectionURL) {
+      window.location.href = redirectionURL;
+    }
+  }, []);
+
+  // Server-side fallback to prevent any rendering errors
+  return <div>Redirecting...</div>;
 }

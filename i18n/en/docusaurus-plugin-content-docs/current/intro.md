@@ -17,3 +17,9 @@ displayed_sidebar: en
 Start by learning the basics, check out our **video tutorials** [here](/docs/en/intro#-the-basics).
 
 :::
+
+:::info
+
+Check out our **templates** [here](https://www.cuadds.com/onboarding/action).
+
+:::

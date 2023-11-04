@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcuadd_docs=self.webpackChunkcuadd_docs||[]).push([[4195],{2841:(e,n,t)=>{t.r(n),t.d(n,{default:()=>d});var c=t(7294),o=t(6550),s=t(412);function d(){const e={en:"/docs/intro",es:"/es/docs/intro"}[c.createElement(s.Z.BrowserOnly,null,"window.location.pathname.split('/')[1]")]||"/docs/intro";return c.createElement(o.l_,{to:e})}}}]);

@@ -17,3 +17,9 @@ displayed_sidebar: es
 Comienza aprendiendo los conceptos básicos, mira nuestros **video tutoriales** [aquí](/docs/es/intro#-the-basics).
 
 :::
+
+:::informacion
+
+Mira nuestras **plantillas** [aquí](https://www.cuadds.com/onboarding/action).
+
+:::
