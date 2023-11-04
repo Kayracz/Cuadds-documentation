@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuadd_docs=self.webpackChunkcuadd_docs||[]).push([[2914],{5445:a=>{a.exports=JSON.parse('{"label":"productividad","permalink":"/es/blog/tags/productividad","allTagsPath":"/es/blog/tags","count":1}')}}]);

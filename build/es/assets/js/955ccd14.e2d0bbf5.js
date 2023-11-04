@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuadd_docs=self.webpackChunkcuadd_docs||[]).push([[6992],{3514:a=>{a.exports=JSON.parse('{"label":"trabajoenequipo","permalink":"/es/blog/tags/trabajoenequipo","allTagsPath":"/es/blog/tags","count":1}')}}]);
