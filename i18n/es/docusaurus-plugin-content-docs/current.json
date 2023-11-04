@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.es.category.Start here": {
+    "message": "Start here",
+    "description": "The label for category Start here in sidebar es"
+  },
+  "sidebar.es.category.Cuadds Basics": {
+    "message": "Cuadds Basics",
+    "description": "The label for category Cuadds Basics in sidebar es"
+  },
+  "sidebar.es.category.Collaboration": {
+    "message": "Collaboration",
+    "description": "The label for category Collaboration in sidebar es"
+  },
+  "sidebar.es.category.Plans and Subscriptions": {
+    "message": "Plans and Subscriptions",
+    "description": "The label for category Plans and Subscriptions in sidebar es"
+  }
+}

@@ -1,0 +1,113 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-font-family-base: 'Lato';
+  --ifm-color-primary: #36a5f4;
+  --ifm-color-primary-dark: #36a5f4;
+  --ifm-color-primary-darker: #36a5f4;
+  --ifm-color-primary-darkest: #36a5f4;
+  --ifm-color-primary-light: #36a5f4;
+  --ifm-color-primary-lighter: #36a5f4;
+  --ifm-color-primary-lightest: #36a5f4;
+  --ifm-code-font-size: 95%;
+}
+.heroBanner_src-pages-index-module{
+  background-image: url("/img/banner.png");
+  width: 100%;
+}
+
+.hero__title{
+  font-weight: 900;
+  font-size: 90px;
+}
+
+.vp-center {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+
+.docvideos .vp-center iframe {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+
+.docvideos {
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+}
+
+html[data-theme='dark'] .hero--primary{
+  --ifm-hero-text-color: white;
+  --ifm-hero-background-color: #303846;
+}
+
+html[data-theme='dark'] .features_src-components-HomepageFeatures-module {
+ background-color: #242526;;
+}
+
+@media (max-width: 400px) {
+  .docvideos {
+    width: 100%;
+    height: 100%
+  }
+}
+.button--secondary:not(.button--outline) {
+  background-color: white;
+}
+
+.button--secondary:not(.button--outline):hover {
+  background-color: rgb(222, 235, 242);
+}
+
+.image-1{
+  width: 500px;
+  height: 400px;
+  border-radius: 5px;
+}
+
+.image-2{
+  width: 300px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.image-3{
+  width: 400px;
+  height: 300px;
+  border-radius: 5px;
+}
+
+.image-icon{
+  width: 33px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.alignment-icons {
+  display: flex;
+}

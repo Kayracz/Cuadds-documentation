@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.en.category.Collaboration": {
+    "message": "Collaboration",
+    "description": "The label for category Collaboration in sidebar en"
+  },
+  "sidebar.en.category.Plans and Subscriptions": {
+    "message": "Plans and Subscriptions",
+    "description": "The label for category Plans and Subscriptions in sidebar en"
+  },
+  "sidebar.en.category.Cuadd Basics": {
+    "message": "Cuadd Basics",
+    "description": "The label for category Cuadd Basics in sidebar en"
+  },
+  "sidebar.en.category.Cuadd Options": {
+    "message": "Cuadd Options",
+    "description": "The label for category Cuadd Options in sidebar en"
+  },
+  "sidebar.en.category.Settings": {
+    "message": "Settings",
+    "description": "The label for category Settings in sidebar en"
+  },
+  "sidebar.es.category.Comienza aquí": {
+    "message": "Comienza aquí",
+    "description": "The label for category Comienza aquí in sidebar es"
+  },
+  "sidebar.es.category.Conceptos básicos": {
+    "message": "Conceptos básicos",
+    "description": "The label for category Conceptos básicos in sidebar es"
+  },
+  "sidebar.es.category.Colaboración": {
+    "message": "Colaboración",
+    "description": "The label for category Colaboración in sidebar es"
+  },
+  "sidebar.es.category.Planes y Suscripciones": {
+    "message": "Planes y Suscripciones",
+    "description": "The label for category Planes y Suscripciones in sidebar es"
+  }
+}
