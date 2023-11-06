@@ -103,6 +103,7 @@ html[data-theme='dark'] .features_src-components-HomepageFeatures-module {
 
 .image-icon{
   width: 33px;
+  min-height: 27px;
   border-radius: 5px;
   margin-left: 10px;
   margin-right: 10px;
@@ -110,4 +111,5 @@ html[data-theme='dark'] .features_src-components-HomepageFeatures-module {
 
 .alignment-icons {
   display: flex;
+  flex-wrap: wrap;
 }

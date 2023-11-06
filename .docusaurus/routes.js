@@ -4,107 +4,107 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '62a'),
+    component: ComponentCreator('/__docusaurus/debug', '914'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'c9f'),
+    component: ComponentCreator('/__docusaurus/debug/config', '96a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a53'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'c20'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '80f'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '489'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'afd'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'f28'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '983'),
+    component: ComponentCreator('/__docusaurus/debug/registry', 'f07'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'cb7'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '801'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '0de'),
+    component: ComponentCreator('/blog', '62d'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'c65'),
+    component: ComponentCreator('/blog/archive', '10f'),
     exact: true
   },
   {
     path: '/blog/caos-creativo',
-    component: ComponentCreator('/blog/caos-creativo', '429'),
+    component: ComponentCreator('/blog/caos-creativo', '3f2'),
     exact: true
   },
   {
     path: '/blog/el-poder-de-la-flexibilidad',
-    component: ComponentCreator('/blog/el-poder-de-la-flexibilidad', 'ae0'),
+    component: ComponentCreator('/blog/el-poder-de-la-flexibilidad', '730'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '37c'),
+    component: ComponentCreator('/blog/tags', 'b45'),
     exact: true
   },
   {
     path: '/blog/tags/blog',
-    component: ComponentCreator('/blog/tags/blog', '722'),
+    component: ComponentCreator('/blog/tags/blog', 'ace'),
     exact: true
   },
   {
     path: '/blog/tags/cuadds',
-    component: ComponentCreator('/blog/tags/cuadds', '928'),
+    component: ComponentCreator('/blog/tags/cuadds', '45d'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'd58'),
+    component: ComponentCreator('/blog/tags/docusaurus', 'b26'),
     exact: true
   },
   {
     path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'c42'),
+    component: ComponentCreator('/blog/tags/hola', '735'),
     exact: true
   },
   {
     path: '/blog/tags/productividad',
-    component: ComponentCreator('/blog/tags/productividad', 'ce0'),
+    component: ComponentCreator('/blog/tags/productividad', '252'),
     exact: true
   },
   {
     path: '/blog/tags/productivity',
-    component: ComponentCreator('/blog/tags/productivity', 'c15'),
+    component: ComponentCreator('/blog/tags/productivity', '4a0'),
     exact: true
   },
   {
     path: '/blog/tags/trabajoenequipo',
-    component: ComponentCreator('/blog/tags/trabajoenequipo', 'cae'),
+    component: ComponentCreator('/blog/tags/trabajoenequipo', 'dcf'),
     exact: true
   },
   {
     path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '2a8'),
+    component: ComponentCreator('/blog/welcome', '709'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b46'),
+    component: ComponentCreator('/docs', '86b'),
     routes: [
       {
         path: '/docs/en/Collaboration/AddYourTeam',
@@ -301,7 +301,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '6a6'),
+    component: ComponentCreator('/', '685'),
     exact: true
   },
   {

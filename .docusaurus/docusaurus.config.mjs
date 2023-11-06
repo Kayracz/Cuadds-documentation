@@ -38,13 +38,13 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/kayraczerniewicz/Desktop/docs/sidebars.js"
+          "sidebarPath": "/Users/kayraczerniewicz/Code/docs/sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/Users/kayraczerniewicz/Desktop/docs/src/css/custom.css"
+          "customCss": "/Users/kayraczerniewicz/Code/docs/src/css/custom.css"
         }
       }
     ]

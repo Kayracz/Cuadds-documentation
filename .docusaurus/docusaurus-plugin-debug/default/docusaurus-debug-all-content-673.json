@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/kayraczerniewicz/Desktop/docs/sidebars.js",
-          "contentPath": "/Users/kayraczerniewicz/Desktop/docs/docs",
-          "contentPathLocalized": "/Users/kayraczerniewicz/Desktop/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/kayraczerniewicz/Code/docs/sidebars.js",
+          "contentPath": "/Users/kayraczerniewicz/Code/docs/docs",
+          "contentPathLocalized": "/Users/kayraczerniewicz/Code/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "en/Collaboration/AddYourTeam",
