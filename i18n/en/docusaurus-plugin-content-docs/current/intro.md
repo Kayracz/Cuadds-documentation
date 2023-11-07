@@ -1,6 +1,6 @@
 ---
 id: intro
-title: Cuadd Docs Introduction
+title: Cuadds Documentation
 displayed_sidebar: en
 ---
 
