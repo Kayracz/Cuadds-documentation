@@ -7,7 +7,7 @@ export default {
   "title": "Cuadds",
   "tagline": "Dinosaurs are cool",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "baseUrl": "/es/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/cuadds.ico",
