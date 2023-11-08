@@ -711,7 +711,7 @@
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Cuadd Docs Introduction",
+              "title": "Cuadds Documentation",
               "description": "⚡️ Welcome to our cuadds documentation.",
               "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/intro.md",
               "sourceDirName": ".",
@@ -722,7 +722,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "intro",
-                "title": "Cuadd Docs Introduction",
+                "title": "Cuadds Documentation",
                 "displayed_sidebar": "en"
               },
               "sidebar": "en"

@@ -18,7 +18,7 @@ Comienza aprendiendo los conceptos básicos, mira nuestros **video tutoriales** 
 
 :::
 
-:::informacion
+:::info información
 
 Mira nuestras **plantillas** [aquí](https://www.cuadds.com/onboarding/action).
 
