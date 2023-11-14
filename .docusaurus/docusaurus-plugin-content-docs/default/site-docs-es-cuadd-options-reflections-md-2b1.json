@@ -6,7 +6,7 @@
   "source": "@site/docs/es/Cuadd Options/Reflections.md",
   "sourceDirName": "es/Cuadd Options",
   "slug": "/es/Cuadd Options/Reflections",
-  "permalink": "/es/docs/es/Cuadd Options/Reflections",
+  "permalink": "/docs/es/Cuadd Options/Reflections",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "es",
   "previous": {
     "title": "Archivos",
-    "permalink": "/es/docs/es/Cuadd Options/Files"
+    "permalink": "/docs/es/Cuadd Options/Files"
   },
   "next": {
     "title": "Duplicación",
-    "permalink": "/es/docs/es/Cuadd Options/Duplication"
+    "permalink": "/docs/es/Cuadd Options/Duplication"
   }
 }

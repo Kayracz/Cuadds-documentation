@@ -304,9 +304,9 @@
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.bfb0bba8.css",
-          "hash": "39753306d667f688",
-          "publicPath": "/es/assets/css/styles.bfb0bba8.css"
+          "file": "assets/css/styles.044b2211.css",
+          "hash": "d044dee6664a0441",
+          "publicPath": "/es/assets/css/styles.044b2211.css"
         }
       ]
     },
@@ -404,7 +404,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.7864c816.js",
-          "hash": "5a1a88056ada5fe6",
+          "hash": "d2b5b9656f48ff69",
           "publicPath": "/es/assets/js/runtime~main.7864c816.js"
         }
       ]
