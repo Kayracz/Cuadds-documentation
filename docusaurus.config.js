@@ -50,7 +50,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
   themeConfig: {
     navbar: {
-      title: 'Cuadds',
       logo: {
         alt: 'Cuadds Logo',
         src: 'img/cuaddslogo.svg',

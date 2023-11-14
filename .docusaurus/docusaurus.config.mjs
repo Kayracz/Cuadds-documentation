@@ -7,7 +7,7 @@ export default {
   "title": "Cuadds",
   "tagline": "The freedom to organize yourself any way YOU want",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/es/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/cuadds.ico",
@@ -51,7 +51,6 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Cuadds",
       "logo": {
         "alt": "Cuadds Logo",
         "src": "img/cuaddslogo.svg"
@@ -87,7 +86,8 @@ export default {
           "position": "right"
         }
       ],
-      "hideOnScroll": false
+      "hideOnScroll": false,
+      "title": "Cuadds"
     },
     "prism": {
       "theme": {

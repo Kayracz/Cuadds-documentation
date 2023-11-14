@@ -277,9 +277,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.c53d7f5c.js",
-          "hash": "cafb077f197efb55",
-          "publicPath": "/es/assets/js/main.c53d7f5c.js"
+          "file": "assets/js/main.2fc3dc24.js",
+          "hash": "781232be690441b5",
+          "publicPath": "/es/assets/js/main.2fc3dc24.js"
         }
       ]
     },
@@ -304,9 +304,9 @@
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.0d3753c5.css",
-          "hash": "2ca3f1fd85f71cc5",
-          "publicPath": "/es/assets/css/styles.0d3753c5.css"
+          "file": "assets/css/styles.bfb0bba8.css",
+          "hash": "39753306d667f688",
+          "publicPath": "/es/assets/css/styles.bfb0bba8.css"
         }
       ]
     },
@@ -404,7 +404,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.7864c816.js",
-          "hash": "f03ec74c684a33bc",
+          "hash": "5a1a88056ada5fe6",
           "publicPath": "/es/assets/js/runtime~main.7864c816.js"
         }
       ]

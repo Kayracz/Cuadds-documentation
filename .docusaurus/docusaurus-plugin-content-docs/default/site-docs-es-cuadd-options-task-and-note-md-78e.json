@@ -6,7 +6,7 @@
   "source": "@site/docs/es/Cuadd Options/TaskAndNote.md",
   "sourceDirName": "es/Cuadd Options",
   "slug": "/es/Cuadd Options/TaskAndNote",
-  "permalink": "/es/docs/es/Cuadd Options/TaskAndNote",
+  "permalink": "/docs/es/Cuadd Options/TaskAndNote",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "es",
   "previous": {
     "title": "Descripción general",
-    "permalink": "/es/docs/es/intro"
+    "permalink": "/docs/es/intro"
   },
   "next": {
     "title": "Estilo",
-    "permalink": "/es/docs/es/Cuadd Options/Styling"
+    "permalink": "/docs/es/Cuadd Options/Styling"
   }
 }
