@@ -91,10 +91,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         // },
       ],
     },
-    footer: {
-      style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} cuadds.com`,
-    },
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,

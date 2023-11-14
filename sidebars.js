@@ -1,6 +1,6 @@
 module.exports = {
   en: {
-    'Cuadd Basics': ['en/intro'], 
+    'Getting Started': ['en/intro'], 
     'Cuadd Options': [
       'en/Cuadd Options/TaskAndNote',
       'en/Cuadd Options/Styling',

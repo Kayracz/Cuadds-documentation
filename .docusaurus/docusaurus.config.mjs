@@ -89,11 +89,6 @@ export default {
       ],
       "hideOnScroll": false
     },
-    "footer": {
-      "style": "dark",
-      "copyright": "Copyright © 2023 cuadds.com",
-      "links": []
-    },
     "prism": {
       "theme": {
         "plain": {

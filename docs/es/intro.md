@@ -1,9 +1,12 @@
 ---
 id: intro
+title: Descripción general
 displayed_sidebar: es
 ---
 
-# ¿Qué es un cuadd?
+# Introducción a Cuadds
+
+## ¿Qué es un cuadd?
 
 Un “cuadd” es el elemento cuadrilateral base de la app que se puede transformar en cualquier cosa: un link, una tarea, una nota, un archivo y mucho más. Usa combinaciones de ellos para ver magia!
 

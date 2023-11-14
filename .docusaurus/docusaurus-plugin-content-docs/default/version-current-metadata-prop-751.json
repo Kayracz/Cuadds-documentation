@@ -11,11 +11,11 @@
     "en": [
       {
         "type": "category",
-        "label": "Cuadd Basics",
+        "label": "Getting Started",
         "items": [
           {
             "type": "link",
-            "label": "What is a Cuadd?",
+            "label": "Overview",
             "href": "/docs/en/intro",
             "docId": "en/intro"
           }
@@ -147,7 +147,7 @@
         "items": [
           {
             "type": "link",
-            "label": "¿Qué es un cuadd?",
+            "label": "Descripción general",
             "href": "/docs/es/intro",
             "docId": "es/intro"
           }
@@ -353,8 +353,8 @@
     },
     "en/intro": {
       "id": "en/intro",
-      "title": "What is a Cuadd?",
-      "description": "A “cuadd” is the app’s quadrilateral building block that can turn into anything: a link, a task, a note, a file, and more. Use combinations of them to see the magic!",
+      "title": "Overview",
+      "description": "What is a Cuadd?",
       "sidebar": "en"
     },
     "en/PlansAndSubscriptions/PlansAndSubscriptions": {
@@ -443,8 +443,8 @@
     },
     "es/intro": {
       "id": "es/intro",
-      "title": "¿Qué es un cuadd?",
-      "description": "Un “cuadd” es el elemento cuadrilateral base de la app que se puede transformar en cualquier cosa: un link, una tarea, una nota, un archivo y mucho más. Usa combinaciones de ellos para ver magia!",
+      "title": "Descripción general",
+      "description": "¿Qué es un cuadd?",
       "sidebar": "es"
     },
     "es/PlansAndSubscriptions/PlansAndSubscriptions": {

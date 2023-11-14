@@ -1,4 +1,12 @@
-# What is a Cuadd?
+---
+id: intro
+title: Overview 
+displayed_sidebar: en
+---
+
+# Introduction to Cuadds
+
+## What is a Cuadd?
 
 A “cuadd” is the app’s quadrilateral building block that can turn into anything: a link, a task, a note, a file, and more. Use combinations of them to see the magic!
 

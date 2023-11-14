@@ -285,7 +285,7 @@
               "frontMatter": {},
               "sidebar": "en",
               "previous": {
-                "title": "What is a Cuadd?",
+                "title": "Overview",
                 "permalink": "/docs/en/intro"
               },
               "next": {
@@ -310,8 +310,8 @@
             {
               "unversionedId": "en/intro",
               "id": "en/intro",
-              "title": "What is a Cuadd?",
-              "description": "A “cuadd” is the app’s quadrilateral building block that can turn into anything: a link, a task, a note, a file, and more. Use combinations of them to see the magic!",
+              "title": "Overview",
+              "description": "What is a Cuadd?",
               "source": "@site/docs/en/intro.md",
               "sourceDirName": "en",
               "slug": "/en/intro",
@@ -319,7 +319,11 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "id": "intro",
+                "title": "Overview",
+                "displayed_sidebar": "en"
+              },
               "sidebar": "en",
               "next": {
                 "title": "Tasks and Notes",
@@ -636,7 +640,7 @@
               "frontMatter": {},
               "sidebar": "es",
               "previous": {
-                "title": "¿Qué es un cuadd?",
+                "title": "Descripción general",
                 "permalink": "/docs/es/intro"
               },
               "next": {
@@ -647,8 +651,8 @@
             {
               "unversionedId": "es/intro",
               "id": "es/intro",
-              "title": "¿Qué es un cuadd?",
-              "description": "Un “cuadd” es el elemento cuadrilateral base de la app que se puede transformar en cualquier cosa: un link, una tarea, una nota, un archivo y mucho más. Usa combinaciones de ellos para ver magia!",
+              "title": "Descripción general",
+              "description": "¿Qué es un cuadd?",
               "source": "@site/docs/es/intro.md",
               "sourceDirName": "es",
               "slug": "/es/intro",
@@ -658,6 +662,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "intro",
+                "title": "Descripción general",
                 "displayed_sidebar": "es"
               },
               "sidebar": "es",
@@ -733,7 +738,7 @@
             "en": [
               {
                 "type": "category",
-                "label": "Cuadd Basics",
+                "label": "Getting Started",
                 "items": [
                   {
                     "type": "doc",
