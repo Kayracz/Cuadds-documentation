@@ -144,9 +144,9 @@ html[data-theme='dark'] .features_src-components-HomepageFeatures-module {
 .menuOptions {
   margin-top: 20px;
 }
-.navbar__item .navbar__link{
-  display: flex;
-}
+
+
+
 
 /* LinkedIn Icon */
 .navbar__item[href="https://www.linkedin.com/company/cuadds/"]:before {
