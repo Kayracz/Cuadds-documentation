@@ -1,186 +1,186 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/es/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/es/docs",
           "mainDocId": "en/intro",
           "docs": [
             {
               "id": "en/Collaboration/AddYourTeam",
-              "path": "/docs/en/Collaboration/AddYourTeam",
+              "path": "/es/docs/en/Collaboration/AddYourTeam",
               "sidebar": "en"
             },
             {
               "id": "en/Collaboration/Chat",
-              "path": "/docs/en/Collaboration/Chat",
+              "path": "/es/docs/en/Collaboration/Chat",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Bookmarks",
-              "path": "/docs/en/Cuadd Options/Bookmarks",
+              "path": "/es/docs/en/Cuadd Options/Bookmarks",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Calendar",
-              "path": "/docs/en/Cuadd Options/Calendar",
+              "path": "/es/docs/en/Cuadd Options/Calendar",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/CuaddOptionMenu",
-              "path": "/docs/en/Cuadd Options/CuaddOptionMenu",
+              "path": "/es/docs/en/Cuadd Options/CuaddOptionMenu",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Deletion",
-              "path": "/docs/en/Cuadd Options/Deletion",
+              "path": "/es/docs/en/Cuadd Options/Deletion",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Duplication",
-              "path": "/docs/en/Cuadd Options/Duplication",
+              "path": "/es/docs/en/Cuadd Options/Duplication",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Files",
-              "path": "/docs/en/Cuadd Options/Files",
+              "path": "/es/docs/en/Cuadd Options/Files",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Movement",
-              "path": "/docs/en/Cuadd Options/Movement",
+              "path": "/es/docs/en/Cuadd Options/Movement",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Reflections",
-              "path": "/docs/en/Cuadd Options/Reflections",
+              "path": "/es/docs/en/Cuadd Options/Reflections",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/Styling",
-              "path": "/docs/en/Cuadd Options/Styling",
+              "path": "/es/docs/en/Cuadd Options/Styling",
               "sidebar": "en"
             },
             {
               "id": "en/Cuadd Options/TaskAndNote",
-              "path": "/docs/en/Cuadd Options/TaskAndNote",
+              "path": "/es/docs/en/Cuadd Options/TaskAndNote",
               "sidebar": "en"
             },
             {
               "id": "en/cuaddsPhilosophy",
-              "path": "/docs/en/cuaddsPhilosophy"
+              "path": "/es/docs/en/cuaddsPhilosophy"
             },
             {
               "id": "en/intro",
-              "path": "/docs/en/intro",
+              "path": "/es/docs/en/intro",
               "sidebar": "en"
             },
             {
               "id": "en/PlansAndSubscriptions/PlansAndSubscriptions",
-              "path": "/docs/en/PlansAndSubscriptions/",
+              "path": "/es/docs/en/PlansAndSubscriptions/",
               "sidebar": "en"
             },
             {
               "id": "en/Settings/Settings",
-              "path": "/docs/en/Settings/",
+              "path": "/es/docs/en/Settings/",
               "sidebar": "en"
             },
             {
               "id": "es/Collaboration/AddYourTeam",
-              "path": "/docs/es/Collaboration/AddYourTeam",
+              "path": "/es/docs/es/Collaboration/AddYourTeam",
               "sidebar": "es"
             },
             {
               "id": "es/Collaboration/Chat",
-              "path": "/docs/es/Collaboration/Chat",
+              "path": "/es/docs/es/Collaboration/Chat",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Bookmarks",
-              "path": "/docs/es/Cuadd Options/Bookmarks",
+              "path": "/es/docs/es/Cuadd Options/Bookmarks",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Calendar",
-              "path": "/docs/es/Cuadd Options/Calendar",
+              "path": "/es/docs/es/Cuadd Options/Calendar",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/CuaddOptionMenu",
-              "path": "/docs/es/Cuadd Options/CuaddOptionMenu",
+              "path": "/es/docs/es/Cuadd Options/CuaddOptionMenu",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Deletion",
-              "path": "/docs/es/Cuadd Options/Deletion",
+              "path": "/es/docs/es/Cuadd Options/Deletion",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Duplication",
-              "path": "/docs/es/Cuadd Options/Duplication",
+              "path": "/es/docs/es/Cuadd Options/Duplication",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Files",
-              "path": "/docs/es/Cuadd Options/Files",
+              "path": "/es/docs/es/Cuadd Options/Files",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Movement",
-              "path": "/docs/es/Cuadd Options/Movement",
+              "path": "/es/docs/es/Cuadd Options/Movement",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Reflections",
-              "path": "/docs/es/Cuadd Options/Reflections",
+              "path": "/es/docs/es/Cuadd Options/Reflections",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/Styling",
-              "path": "/docs/es/Cuadd Options/Styling",
+              "path": "/es/docs/es/Cuadd Options/Styling",
               "sidebar": "es"
             },
             {
               "id": "es/Cuadd Options/TaskAndNote",
-              "path": "/docs/es/Cuadd Options/TaskAndNote",
+              "path": "/es/docs/es/Cuadd Options/TaskAndNote",
               "sidebar": "es"
             },
             {
               "id": "es/intro",
-              "path": "/docs/es/intro",
+              "path": "/es/docs/es/intro",
               "sidebar": "es"
             },
             {
               "id": "es/PlansAndSubscriptions/PlansAndSubscriptions",
-              "path": "/docs/es/PlansAndSubscriptions/",
+              "path": "/es/docs/es/PlansAndSubscriptions/",
               "sidebar": "es"
             },
             {
               "id": "es/Settings/Settings",
-              "path": "/docs/es/Settings/",
+              "path": "/es/docs/es/Settings/",
               "sidebar": "es"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "en"
+              "path": "/es/docs/intro",
+              "sidebar": "es"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "en": {
               "link": {
-                "path": "/docs/en/intro",
+                "path": "/es/docs/en/intro",
                 "label": "en/intro"
               }
             },
             "es": {
               "link": {
-                "path": "/docs/es/intro",
+                "path": "/es/docs/es/intro",
                 "label": "es/intro"
               }
             }

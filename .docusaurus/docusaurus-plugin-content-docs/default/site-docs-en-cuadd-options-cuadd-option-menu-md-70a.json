@@ -6,7 +6,7 @@
   "source": "@site/docs/en/Cuadd Options/CuaddOptionMenu.md",
   "sourceDirName": "en/Cuadd Options",
   "slug": "/en/Cuadd Options/CuaddOptionMenu",
-  "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu",
+  "permalink": "/es/docs/en/Cuadd Options/CuaddOptionMenu",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "en",
   "previous": {
     "title": "Styling",
-    "permalink": "/docs/en/Cuadd Options/Styling"
+    "permalink": "/es/docs/en/Cuadd Options/Styling"
   },
   "next": {
     "title": "Bookmarks",
-    "permalink": "/docs/en/Cuadd Options/Bookmarks"
+    "permalink": "/es/docs/en/Cuadd Options/Bookmarks"
   }
 }
