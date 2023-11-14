@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Cuadds',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'The freedom to organize yourself any way YOU want',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
 

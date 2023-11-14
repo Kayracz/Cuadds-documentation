@@ -6,7 +6,7 @@ Al hacer clic en el [**menú de opciones**](./CuaddOptionMenu.md) de cualquier C
 
 Cada reflejo tendrá un texto en azul para distinguirlas de tu Cuadd original. Cualquier cambio que realices se reflejará.
 
- <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1695934820/Screen_Shot_2023-09-28_at_17.00.09.png" className="image-1"></img> 
+ <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1695934820/Screen_Shot_2023-09-28_at_17.00.09.png" className="image-1" alt="Imagen de reflejos" style={{ height: '250px' }}></img> 
 
 ### La diferencia entre ["Reflejos"](./Reflections.md) y ["Duplicación"](./Duplication.md)
 

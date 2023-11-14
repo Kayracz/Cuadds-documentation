@@ -8,7 +8,7 @@ By clicking on any cuadd´s [**option menu**](./CuaddOptionMenu.md) and pressing
 Each reflection will have a blue text, to distinguish them from your original cuadd. Anything you change will
 be reflected.
 
- <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1695934820/Screen_Shot_2023-09-28_at_17.00.09.png" className="image-1"></img> 
+ <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1695934820/Screen_Shot_2023-09-28_at_17.00.09.png" className="image-1" alt="Reflections image" style={{ height: '250px' }}></img> 
 
 ### The difference between ["Reflections"](./Reflections.md) and ["Duplication"](./Duplication.md)
 

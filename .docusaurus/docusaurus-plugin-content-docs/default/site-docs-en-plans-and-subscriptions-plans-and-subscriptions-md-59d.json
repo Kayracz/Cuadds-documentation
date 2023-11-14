@@ -6,7 +6,7 @@
   "source": "@site/docs/en/PlansAndSubscriptions/PlansAndSubscriptions.md",
   "sourceDirName": "en/PlansAndSubscriptions",
   "slug": "/en/PlansAndSubscriptions/",
-  "permalink": "/es/docs/en/PlansAndSubscriptions/",
+  "permalink": "/docs/en/PlansAndSubscriptions/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "en",
   "previous": {
     "title": "Chat with your team",
-    "permalink": "/es/docs/en/Collaboration/Chat"
+    "permalink": "/docs/en/Collaboration/Chat"
   },
   "next": {
     "title": "Settings",
-    "permalink": "/es/docs/en/Settings/"
+    "permalink": "/docs/en/Settings/"
   }
 }

@@ -10,4 +10,4 @@ Inside **settings** you can See and edit information such as:
 - **Early Supporter Plan**: Here you can see more information on our ["Early Supporter Plan"](../PlansAndSubscriptions/PlansAndSubscriptions.md)
   
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697140288/Screen_Shot_2023-10-12_at_15.50.26.png" className="image-1"></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697140288/Screen_Shot_2023-10-12_at_15.50.26.png" className="image-1"  alt="Settings image" style={{ height: '360px' }}></img>

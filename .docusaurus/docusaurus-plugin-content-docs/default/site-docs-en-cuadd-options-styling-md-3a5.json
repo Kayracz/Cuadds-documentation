@@ -6,7 +6,7 @@
   "source": "@site/docs/en/Cuadd Options/Styling.md",
   "sourceDirName": "en/Cuadd Options",
   "slug": "/en/Cuadd Options/Styling",
-  "permalink": "/es/docs/en/Cuadd Options/Styling",
+  "permalink": "/docs/en/Cuadd Options/Styling",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "en",
   "previous": {
     "title": "Tasks and Notes",
-    "permalink": "/es/docs/en/Cuadd Options/TaskAndNote"
+    "permalink": "/docs/en/Cuadd Options/TaskAndNote"
   },
   "next": {
     "title": "Option menu",
-    "permalink": "/es/docs/en/Cuadd Options/CuaddOptionMenu"
+    "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu"
   }
 }

@@ -20,5 +20,5 @@ export default function Home() {
   }, []);
 
   // Server-side fallback to prevent any rendering errors
-  return <div>Redirecting...</div>;
+  return <div></div>;
 }

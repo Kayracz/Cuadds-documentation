@@ -6,7 +6,7 @@ Dentro de cada Cuadd, encontrarás este icono: <img src="https://res.cloudinary.
 
 Cuando hagas clic aquí, ¡puedes invitar a tus amigos a colaborar dentro de ese Cuadd!
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138803/Screen_Shot_2023-10-12_at_14.32.45.png" className="image-1"></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138803/Screen_Shot_2023-10-12_at_14.32.45.png" className="image-1"  alt="Imagen invitar amigos" style={{ height: '380px' }}></img>
 
 ## Ingresa el correo electrónico o nombre de usuario
 
@@ -14,4 +14,4 @@ Cuando hagas clic aquí, ¡puedes invitar a tus amigos a colaborar dentro de ese
 
 **Correo electrónico**: Si el usuario aún no está en Cuadds, puedes ingresar su dirección de correo electrónico aquí. Al enviar una solicitud, se les enviará un correo electrónico con una invitación para unirse a tu Cuadd.
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138812/Screen_Shot_2023-10-12_at_14.33.18.png" className="image-1"></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138812/Screen_Shot_2023-10-12_at_14.33.18.png" className="image-1" alt="Imagen invitar amigos" style={{ height: '380px' }}></img>
