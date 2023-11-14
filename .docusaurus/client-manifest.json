@@ -277,9 +277,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.2fc3dc24.js",
-          "hash": "781232be690441b5",
-          "publicPath": "/es/assets/js/main.2fc3dc24.js"
+          "file": "assets/js/main.dc788d37.js",
+          "hash": "0c360214ccbcd98d",
+          "publicPath": "/es/assets/js/main.dc788d37.js"
         }
       ]
     },
@@ -404,7 +404,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.7864c816.js",
-          "hash": "d2b5b9656f48ff69",
+          "hash": "87d01de5d97993cf",
           "publicPath": "/es/assets/js/runtime~main.7864c816.js"
         }
       ]

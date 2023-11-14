@@ -38,7 +38,8 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/kayraczerniewicz/Code/docs/sidebars.js"
+          "sidebarPath": "/Users/kayraczerniewicz/Code/docs/sidebars.js",
+          "breadcrumbs": false
         },
         "blog": {
           "showReadingTime": true

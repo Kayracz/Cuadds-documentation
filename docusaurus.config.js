@@ -37,6 +37,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          breadcrumbs: false,
         },
         blog: {
           showReadingTime: true,
