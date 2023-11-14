@@ -8,14 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   tagline: 'The freedom to organize yourself any way YOU want',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/cuadds.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
-    i18n: {
+  i18n: {
     defaultLocale: 'en',
     locales: ['en', 'es'],
     path: 'i18n',
@@ -31,28 +30,25 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     },
   },
 
-
-presets: [
-  [
-    '@docusaurus/preset-classic',
-    /** @type {import('@docusaurus/preset-classic').Options} */
-    ({
-      docs: {
-        sidebarPath: require.resolve('./sidebars.js'),
-      },
-      blog: {
-        showReadingTime: true,
-      },
-      theme: {
-        customCss: require.resolve('./src/css/custom.css'),
-      },
-    }),
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+        blog: {
+          showReadingTime: true,
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      }),
+    ],
   ],
-],
 
-themeConfig:
-  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-  ({
+  themeConfig: {
     navbar: {
       title: 'Cuadds',
       logo: {
@@ -62,64 +58,46 @@ themeConfig:
       items: [
         {
           type: 'localeDropdown',
-           position: 'left',
+          position: 'left',
         },
         {
           type: 'doc',
           docId: 'intro',
-          link: {type: 'doc', id: 'intro'},
           position: 'left',
           label: 'Tutorial',
         },
-        // {
-        //   to: '/blog', label: 'Blog', position: 'left'},
-        // {
-          {
+        {
           href: 'https://cuadds.com',
           label: 'Cuadds',
           position: 'right',
-         },
-      ],
-      },
-      footer: {
-      style: 'dark',
-      links: [
-      {
-      title: 'Social Media',
-      items: [
+        },
         {
-          label: 'LinkedIn',
           href: 'https://www.linkedin.com/company/cuadds/',
+          position: 'right',
         },
         {
-          label: 'Instagram',
           href: 'https://www.instagram.com/cuaddsapp/',
+          position: 'right',
         },
         {
-          label: 'Twitter',
           href: 'https://twitter.com/cuadds',
+          position: 'right',
         },
+        // Uncomment the following lines if needed
+        // {
+        //   to: '/blog', 
+        //   label: 'Blog', 
+        //   position: 'left'
+        // },
       ],
-      },
-      {
-      title: 'More',
-      items: [
-        {
-          label: 'Blog',
-          to: '/blog',
-        },
-        {
-          label: 'Cuadds.com',
-          href: 'https://cuadds.com',
-        },
-      ],
-      },
-      ],
+    },
+    footer: {
+      style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} cuadds.com`,
-      },
-      prism: {
+    },
+    prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
-      },
-      }),
-      });
+    },
+  },
+});

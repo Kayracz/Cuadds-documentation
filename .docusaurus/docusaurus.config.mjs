@@ -66,10 +66,6 @@ export default {
         {
           "type": "doc",
           "docId": "intro",
-          "link": {
-            "type": "doc",
-            "id": "intro"
-          },
           "position": "left",
           "label": "Tutorial"
         },
@@ -77,45 +73,26 @@ export default {
           "href": "https://cuadds.com",
           "label": "Cuadds",
           "position": "right"
+        },
+        {
+          "href": "https://www.linkedin.com/company/cuadds/",
+          "position": "right"
+        },
+        {
+          "href": "https://www.instagram.com/cuaddsapp/",
+          "position": "right"
+        },
+        {
+          "href": "https://twitter.com/cuadds",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Social Media",
-          "items": [
-            {
-              "label": "LinkedIn",
-              "href": "https://www.linkedin.com/company/cuadds/"
-            },
-            {
-              "label": "Instagram",
-              "href": "https://www.instagram.com/cuaddsapp/"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/cuadds"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "Cuadds.com",
-              "href": "https://cuadds.com"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2023 cuadds.com"
+      "copyright": "Copyright © 2023 cuadds.com",
+      "links": []
     },
     "prism": {
       "theme": {

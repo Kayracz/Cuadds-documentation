@@ -3,7 +3,6 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
-
  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
 
 /* You can override the default Infima variables here. */
@@ -71,7 +70,7 @@ margin: 10px;
 }
 
 .toggleButton_node_modules-\@docusaurus-theme-classic-lib-theme-ColorModeToggle-styles-module {
-margin-left: 5px;
+margin-left: 9px;
 }
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
@@ -140,4 +139,46 @@ html[data-theme='dark'] .features_src-components-HomepageFeatures-module {
 
 .menuOptions {
   margin-top: 20px;
+}
+.navbar__item .navbar__link{
+  display: flex;
+}
+
+/* LinkedIn Icon */
+.navbar__item[href="https://www.linkedin.com/company/cuadds/"]:before {
+  content: '';
+  display: inline-flex;
+  height: 19px;
+  width: 17px;
+  background-image: url('/img/linkedin.svg');  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 5px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Instagram Icon */
+.navbar__item[href="https://www.instagram.com/cuaddsapp/"]:before {
+  content: '';
+  display: inline-flex;
+  height: 19px;
+  width: 17px;
+  background-image: url('/img/instagram.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+/* Twitter Icon */
+.navbar__item[href="https://twitter.com/cuadds"]:before {
+  content: '';
+  display: inline-flex;
+  height: 15px;
+  width: 17px;
+  background-image: url('/img/twitter.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 5px;
+  vertical-align: middle;
 }
