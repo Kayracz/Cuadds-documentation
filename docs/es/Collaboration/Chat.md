@@ -11,10 +11,10 @@ Al hacer clic aquí, puedes comenzar una conversación. En el lado derecho, pued
 ## Todas las Conversaciones
 
 <div className="alignment-icons">
-Puedes verlas todas haciendo clic en el ícono de doble chat <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138892/Screen_Shot_2023-10-12_at_14.34.05.png" className="image-icon"></img> en tu barra de navegación.
+Puedes verlas todas haciendo clic en el ícono de doble chat <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1696009938/Screen_Shot_2023-09-29_at_13.50.13.png" className="image-icon"></img> en tu barra de navegación.
 </div>
 
 - **Centro de ayuda**: aquí puedes acceder al chat del centro de ayuda en el que puedes iniciar una conversación con nosotros.
 - *Chats de Cuadd*: el resto de las conversaciones se pueden ver y acceder aquí por título de Cuadd. Una vez que hagas clic en uno de ellos, te llevará a ese Cuadd con la conversación abierta.
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697139044/Screen_Shot_2023-10-12_at_14.36.05.png" className="image-1"  alt="Imagen conversaciones" style={{ height: '511px' }}></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697139044/Screen_Shot_2023-10-12_at_14.36.05.png" className="image-1"  alt="Imagen conversaciones" style={{ height: '711px' }}></img>

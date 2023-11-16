@@ -9,13 +9,13 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/es/docs",
+          "tagsPath": "/es/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/kayraczerniewicz/Code/docs/sidebars.js",
           "contentPath": "/Users/kayraczerniewicz/Code/docs/docs",
-          "contentPathLocalized": "/Users/kayraczerniewicz/Code/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/Users/kayraczerniewicz/Code/docs/i18n/es/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "en/Collaboration/AddYourTeam",
@@ -25,7 +25,7 @@
               "source": "@site/docs/en/Collaboration/AddYourTeam.md",
               "sourceDirName": "en/Collaboration",
               "slug": "/en/Collaboration/AddYourTeam",
-              "permalink": "/docs/en/Collaboration/AddYourTeam",
+              "permalink": "/es/docs/en/Collaboration/AddYourTeam",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -33,11 +33,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Deleting",
-                "permalink": "/docs/en/Cuadd Options/Deletion"
+                "permalink": "/es/docs/en/Cuadd Options/Deletion"
               },
               "next": {
                 "title": "Chat with your team",
-                "permalink": "/docs/en/Collaboration/Chat"
+                "permalink": "/es/docs/en/Collaboration/Chat"
               }
             },
             {
@@ -48,7 +48,7 @@
               "source": "@site/docs/en/Collaboration/Chat.md",
               "sourceDirName": "en/Collaboration",
               "slug": "/en/Collaboration/Chat",
-              "permalink": "/docs/en/Collaboration/Chat",
+              "permalink": "/es/docs/en/Collaboration/Chat",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -56,11 +56,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Add your team members",
-                "permalink": "/docs/en/Collaboration/AddYourTeam"
+                "permalink": "/es/docs/en/Collaboration/AddYourTeam"
               },
               "next": {
                 "title": "Plans and Subscriptions",
-                "permalink": "/docs/en/PlansAndSubscriptions/"
+                "permalink": "/es/docs/en/PlansAndSubscriptions/"
               }
             },
             {
@@ -71,7 +71,7 @@
               "source": "@site/docs/en/Cuadd Options/Bookmarks.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Bookmarks",
-              "permalink": "/docs/en/Cuadd Options/Bookmarks",
+              "permalink": "/es/docs/en/Cuadd Options/Bookmarks",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -79,11 +79,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Option menu",
-                "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu"
+                "permalink": "/es/docs/en/Cuadd Options/CuaddOptionMenu"
               },
               "next": {
                 "title": "Calendar",
-                "permalink": "/docs/en/Cuadd Options/Calendar"
+                "permalink": "/es/docs/en/Cuadd Options/Calendar"
               }
             },
             {
@@ -94,7 +94,7 @@
               "source": "@site/docs/en/Cuadd Options/Calendar.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Calendar",
-              "permalink": "/docs/en/Cuadd Options/Calendar",
+              "permalink": "/es/docs/en/Cuadd Options/Calendar",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -102,11 +102,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Bookmarks",
-                "permalink": "/docs/en/Cuadd Options/Bookmarks"
+                "permalink": "/es/docs/en/Cuadd Options/Bookmarks"
               },
               "next": {
                 "title": "Movement",
-                "permalink": "/docs/en/Cuadd Options/Movement"
+                "permalink": "/es/docs/en/Cuadd Options/Movement"
               }
             },
             {
@@ -117,7 +117,7 @@
               "source": "@site/docs/en/Cuadd Options/CuaddOptionMenu.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/CuaddOptionMenu",
-              "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu",
+              "permalink": "/es/docs/en/Cuadd Options/CuaddOptionMenu",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -125,11 +125,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Styling",
-                "permalink": "/docs/en/Cuadd Options/Styling"
+                "permalink": "/es/docs/en/Cuadd Options/Styling"
               },
               "next": {
                 "title": "Bookmarks",
-                "permalink": "/docs/en/Cuadd Options/Bookmarks"
+                "permalink": "/es/docs/en/Cuadd Options/Bookmarks"
               }
             },
             {
@@ -140,7 +140,7 @@
               "source": "@site/docs/en/Cuadd Options/Deletion.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Deletion",
-              "permalink": "/docs/en/Cuadd Options/Deletion",
+              "permalink": "/es/docs/en/Cuadd Options/Deletion",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -148,11 +148,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Duplication",
-                "permalink": "/docs/en/Cuadd Options/Duplication"
+                "permalink": "/es/docs/en/Cuadd Options/Duplication"
               },
               "next": {
                 "title": "Add your team members",
-                "permalink": "/docs/en/Collaboration/AddYourTeam"
+                "permalink": "/es/docs/en/Collaboration/AddYourTeam"
               }
             },
             {
@@ -163,7 +163,7 @@
               "source": "@site/docs/en/Cuadd Options/Duplication.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Duplication",
-              "permalink": "/docs/en/Cuadd Options/Duplication",
+              "permalink": "/es/docs/en/Cuadd Options/Duplication",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -171,11 +171,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Reflections",
-                "permalink": "/docs/en/Cuadd Options/Reflections"
+                "permalink": "/es/docs/en/Cuadd Options/Reflections"
               },
               "next": {
                 "title": "Deleting",
-                "permalink": "/docs/en/Cuadd Options/Deletion"
+                "permalink": "/es/docs/en/Cuadd Options/Deletion"
               }
             },
             {
@@ -186,7 +186,7 @@
               "source": "@site/docs/en/Cuadd Options/Files.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Files",
-              "permalink": "/docs/en/Cuadd Options/Files",
+              "permalink": "/es/docs/en/Cuadd Options/Files",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -194,11 +194,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Movement",
-                "permalink": "/docs/en/Cuadd Options/Movement"
+                "permalink": "/es/docs/en/Cuadd Options/Movement"
               },
               "next": {
                 "title": "Reflections",
-                "permalink": "/docs/en/Cuadd Options/Reflections"
+                "permalink": "/es/docs/en/Cuadd Options/Reflections"
               }
             },
             {
@@ -209,7 +209,7 @@
               "source": "@site/docs/en/Cuadd Options/Movement.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Movement",
-              "permalink": "/docs/en/Cuadd Options/Movement",
+              "permalink": "/es/docs/en/Cuadd Options/Movement",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -217,11 +217,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Calendar",
-                "permalink": "/docs/en/Cuadd Options/Calendar"
+                "permalink": "/es/docs/en/Cuadd Options/Calendar"
               },
               "next": {
                 "title": "Files",
-                "permalink": "/docs/en/Cuadd Options/Files"
+                "permalink": "/es/docs/en/Cuadd Options/Files"
               }
             },
             {
@@ -232,7 +232,7 @@
               "source": "@site/docs/en/Cuadd Options/Reflections.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Reflections",
-              "permalink": "/docs/en/Cuadd Options/Reflections",
+              "permalink": "/es/docs/en/Cuadd Options/Reflections",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -240,11 +240,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Files",
-                "permalink": "/docs/en/Cuadd Options/Files"
+                "permalink": "/es/docs/en/Cuadd Options/Files"
               },
               "next": {
                 "title": "Duplication",
-                "permalink": "/docs/en/Cuadd Options/Duplication"
+                "permalink": "/es/docs/en/Cuadd Options/Duplication"
               }
             },
             {
@@ -255,7 +255,7 @@
               "source": "@site/docs/en/Cuadd Options/Styling.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/Styling",
-              "permalink": "/docs/en/Cuadd Options/Styling",
+              "permalink": "/es/docs/en/Cuadd Options/Styling",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -263,11 +263,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Tasks and Notes",
-                "permalink": "/docs/en/Cuadd Options/TaskAndNote"
+                "permalink": "/es/docs/en/Cuadd Options/TaskAndNote"
               },
               "next": {
                 "title": "Option menu",
-                "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu"
+                "permalink": "/es/docs/en/Cuadd Options/CuaddOptionMenu"
               }
             },
             {
@@ -278,7 +278,7 @@
               "source": "@site/docs/en/Cuadd Options/TaskAndNote.md",
               "sourceDirName": "en/Cuadd Options",
               "slug": "/en/Cuadd Options/TaskAndNote",
-              "permalink": "/docs/en/Cuadd Options/TaskAndNote",
+              "permalink": "/es/docs/en/Cuadd Options/TaskAndNote",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -286,11 +286,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Overview",
-                "permalink": "/docs/en/intro"
+                "permalink": "/es/docs/en/intro"
               },
               "next": {
                 "title": "Styling",
-                "permalink": "/docs/en/Cuadd Options/Styling"
+                "permalink": "/es/docs/en/Cuadd Options/Styling"
               }
             },
             {
@@ -301,7 +301,7 @@
               "source": "@site/docs/en/cuaddsPhilosophy.md",
               "sourceDirName": "en",
               "slug": "/en/cuaddsPhilosophy",
-              "permalink": "/docs/en/cuaddsPhilosophy",
+              "permalink": "/es/docs/en/cuaddsPhilosophy",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -315,7 +315,7 @@
               "source": "@site/docs/en/intro.md",
               "sourceDirName": "en",
               "slug": "/en/intro",
-              "permalink": "/docs/en/intro",
+              "permalink": "/es/docs/en/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -327,7 +327,7 @@
               "sidebar": "en",
               "next": {
                 "title": "Tasks and Notes",
-                "permalink": "/docs/en/Cuadd Options/TaskAndNote"
+                "permalink": "/es/docs/en/Cuadd Options/TaskAndNote"
               }
             },
             {
@@ -338,7 +338,7 @@
               "source": "@site/docs/en/PlansAndSubscriptions/PlansAndSubscriptions.md",
               "sourceDirName": "en/PlansAndSubscriptions",
               "slug": "/en/PlansAndSubscriptions/",
-              "permalink": "/docs/en/PlansAndSubscriptions/",
+              "permalink": "/es/docs/en/PlansAndSubscriptions/",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -346,11 +346,11 @@
               "sidebar": "en",
               "previous": {
                 "title": "Chat with your team",
-                "permalink": "/docs/en/Collaboration/Chat"
+                "permalink": "/es/docs/en/Collaboration/Chat"
               },
               "next": {
                 "title": "Settings",
-                "permalink": "/docs/en/Settings/"
+                "permalink": "/es/docs/en/Settings/"
               }
             },
             {
@@ -361,7 +361,7 @@
               "source": "@site/docs/en/Settings/Settings.md",
               "sourceDirName": "en/Settings",
               "slug": "/en/Settings/",
-              "permalink": "/docs/en/Settings/",
+              "permalink": "/es/docs/en/Settings/",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -369,7 +369,7 @@
               "sidebar": "en",
               "previous": {
                 "title": "Plans and Subscriptions",
-                "permalink": "/docs/en/PlansAndSubscriptions/"
+                "permalink": "/es/docs/en/PlansAndSubscriptions/"
               }
             },
             {
@@ -380,7 +380,7 @@
               "source": "@site/docs/es/Collaboration/AddYourTeam.md",
               "sourceDirName": "es/Collaboration",
               "slug": "/es/Collaboration/AddYourTeam",
-              "permalink": "/docs/es/Collaboration/AddYourTeam",
+              "permalink": "/es/docs/es/Collaboration/AddYourTeam",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -388,11 +388,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Eliminar",
-                "permalink": "/docs/es/Cuadd Options/Deletion"
+                "permalink": "/es/docs/es/Cuadd Options/Deletion"
               },
               "next": {
                 "title": "Chatea con tu equipo",
-                "permalink": "/docs/es/Collaboration/Chat"
+                "permalink": "/es/docs/es/Collaboration/Chat"
               }
             },
             {
@@ -403,7 +403,7 @@
               "source": "@site/docs/es/Collaboration/Chat.md",
               "sourceDirName": "es/Collaboration",
               "slug": "/es/Collaboration/Chat",
-              "permalink": "/docs/es/Collaboration/Chat",
+              "permalink": "/es/docs/es/Collaboration/Chat",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -411,11 +411,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Invita a tus compañeros de equipo",
-                "permalink": "/docs/es/Collaboration/AddYourTeam"
+                "permalink": "/es/docs/es/Collaboration/AddYourTeam"
               },
               "next": {
                 "title": "Planes y Suscripciones",
-                "permalink": "/docs/es/PlansAndSubscriptions/"
+                "permalink": "/es/docs/es/PlansAndSubscriptions/"
               }
             },
             {
@@ -426,7 +426,7 @@
               "source": "@site/docs/es/Cuadd Options/Bookmarks.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Bookmarks",
-              "permalink": "/docs/es/Cuadd Options/Bookmarks",
+              "permalink": "/es/docs/es/Cuadd Options/Bookmarks",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -434,11 +434,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Menú de opciones",
-                "permalink": "/docs/es/Cuadd Options/CuaddOptionMenu"
+                "permalink": "/es/docs/es/Cuadd Options/CuaddOptionMenu"
               },
               "next": {
                 "title": "Calendario",
-                "permalink": "/docs/es/Cuadd Options/Calendar"
+                "permalink": "/es/docs/es/Cuadd Options/Calendar"
               }
             },
             {
@@ -449,7 +449,7 @@
               "source": "@site/docs/es/Cuadd Options/Calendar.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Calendar",
-              "permalink": "/docs/es/Cuadd Options/Calendar",
+              "permalink": "/es/docs/es/Cuadd Options/Calendar",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -457,11 +457,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Marcadores",
-                "permalink": "/docs/es/Cuadd Options/Bookmarks"
+                "permalink": "/es/docs/es/Cuadd Options/Bookmarks"
               },
               "next": {
                 "title": "Movimiento",
-                "permalink": "/docs/es/Cuadd Options/Movement"
+                "permalink": "/es/docs/es/Cuadd Options/Movement"
               }
             },
             {
@@ -472,7 +472,7 @@
               "source": "@site/docs/es/Cuadd Options/CuaddOptionMenu.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/CuaddOptionMenu",
-              "permalink": "/docs/es/Cuadd Options/CuaddOptionMenu",
+              "permalink": "/es/docs/es/Cuadd Options/CuaddOptionMenu",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -480,11 +480,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Estilo",
-                "permalink": "/docs/es/Cuadd Options/Styling"
+                "permalink": "/es/docs/es/Cuadd Options/Styling"
               },
               "next": {
                 "title": "Marcadores",
-                "permalink": "/docs/es/Cuadd Options/Bookmarks"
+                "permalink": "/es/docs/es/Cuadd Options/Bookmarks"
               }
             },
             {
@@ -495,7 +495,7 @@
               "source": "@site/docs/es/Cuadd Options/Deletion.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Deletion",
-              "permalink": "/docs/es/Cuadd Options/Deletion",
+              "permalink": "/es/docs/es/Cuadd Options/Deletion",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -503,11 +503,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Duplicación",
-                "permalink": "/docs/es/Cuadd Options/Duplication"
+                "permalink": "/es/docs/es/Cuadd Options/Duplication"
               },
               "next": {
                 "title": "Invita a tus compañeros de equipo",
-                "permalink": "/docs/es/Collaboration/AddYourTeam"
+                "permalink": "/es/docs/es/Collaboration/AddYourTeam"
               }
             },
             {
@@ -518,7 +518,7 @@
               "source": "@site/docs/es/Cuadd Options/Duplication.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Duplication",
-              "permalink": "/docs/es/Cuadd Options/Duplication",
+              "permalink": "/es/docs/es/Cuadd Options/Duplication",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -526,11 +526,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Reflejos",
-                "permalink": "/docs/es/Cuadd Options/Reflections"
+                "permalink": "/es/docs/es/Cuadd Options/Reflections"
               },
               "next": {
                 "title": "Eliminar",
-                "permalink": "/docs/es/Cuadd Options/Deletion"
+                "permalink": "/es/docs/es/Cuadd Options/Deletion"
               }
             },
             {
@@ -541,7 +541,7 @@
               "source": "@site/docs/es/Cuadd Options/Files.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Files",
-              "permalink": "/docs/es/Cuadd Options/Files",
+              "permalink": "/es/docs/es/Cuadd Options/Files",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -549,11 +549,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Movimiento",
-                "permalink": "/docs/es/Cuadd Options/Movement"
+                "permalink": "/es/docs/es/Cuadd Options/Movement"
               },
               "next": {
                 "title": "Reflejos",
-                "permalink": "/docs/es/Cuadd Options/Reflections"
+                "permalink": "/es/docs/es/Cuadd Options/Reflections"
               }
             },
             {
@@ -564,7 +564,7 @@
               "source": "@site/docs/es/Cuadd Options/Movement.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Movement",
-              "permalink": "/docs/es/Cuadd Options/Movement",
+              "permalink": "/es/docs/es/Cuadd Options/Movement",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -572,11 +572,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Calendario",
-                "permalink": "/docs/es/Cuadd Options/Calendar"
+                "permalink": "/es/docs/es/Cuadd Options/Calendar"
               },
               "next": {
                 "title": "Archivos",
-                "permalink": "/docs/es/Cuadd Options/Files"
+                "permalink": "/es/docs/es/Cuadd Options/Files"
               }
             },
             {
@@ -587,7 +587,7 @@
               "source": "@site/docs/es/Cuadd Options/Reflections.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Reflections",
-              "permalink": "/docs/es/Cuadd Options/Reflections",
+              "permalink": "/es/docs/es/Cuadd Options/Reflections",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -595,11 +595,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Archivos",
-                "permalink": "/docs/es/Cuadd Options/Files"
+                "permalink": "/es/docs/es/Cuadd Options/Files"
               },
               "next": {
                 "title": "Duplicación",
-                "permalink": "/docs/es/Cuadd Options/Duplication"
+                "permalink": "/es/docs/es/Cuadd Options/Duplication"
               }
             },
             {
@@ -610,7 +610,7 @@
               "source": "@site/docs/es/Cuadd Options/Styling.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/Styling",
-              "permalink": "/docs/es/Cuadd Options/Styling",
+              "permalink": "/es/docs/es/Cuadd Options/Styling",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -618,11 +618,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Tareas y/o notas",
-                "permalink": "/docs/es/Cuadd Options/TaskAndNote"
+                "permalink": "/es/docs/es/Cuadd Options/TaskAndNote"
               },
               "next": {
                 "title": "Menú de opciones",
-                "permalink": "/docs/es/Cuadd Options/CuaddOptionMenu"
+                "permalink": "/es/docs/es/Cuadd Options/CuaddOptionMenu"
               }
             },
             {
@@ -633,7 +633,7 @@
               "source": "@site/docs/es/Cuadd Options/TaskAndNote.md",
               "sourceDirName": "es/Cuadd Options",
               "slug": "/es/Cuadd Options/TaskAndNote",
-              "permalink": "/docs/es/Cuadd Options/TaskAndNote",
+              "permalink": "/es/docs/es/Cuadd Options/TaskAndNote",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -641,11 +641,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Descripción general",
-                "permalink": "/docs/es/intro"
+                "permalink": "/es/docs/es/intro"
               },
               "next": {
                 "title": "Estilo",
-                "permalink": "/docs/es/Cuadd Options/Styling"
+                "permalink": "/es/docs/es/Cuadd Options/Styling"
               }
             },
             {
@@ -656,7 +656,7 @@
               "source": "@site/docs/es/intro.md",
               "sourceDirName": "es",
               "slug": "/es/intro",
-              "permalink": "/docs/es/intro",
+              "permalink": "/es/docs/es/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -668,7 +668,7 @@
               "sidebar": "es",
               "next": {
                 "title": "Tareas y/o notas",
-                "permalink": "/docs/es/Cuadd Options/TaskAndNote"
+                "permalink": "/es/docs/es/Cuadd Options/TaskAndNote"
               }
             },
             {
@@ -679,7 +679,7 @@
               "source": "@site/docs/es/PlansAndSubscriptions/PlansAndSubscriptions.md",
               "sourceDirName": "es/PlansAndSubscriptions",
               "slug": "/es/PlansAndSubscriptions/",
-              "permalink": "/docs/es/PlansAndSubscriptions/",
+              "permalink": "/es/docs/es/PlansAndSubscriptions/",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -687,11 +687,11 @@
               "sidebar": "es",
               "previous": {
                 "title": "Chatea con tu equipo",
-                "permalink": "/docs/es/Collaboration/Chat"
+                "permalink": "/es/docs/es/Collaboration/Chat"
               },
               "next": {
                 "title": "Configuración",
-                "permalink": "/docs/es/Settings/"
+                "permalink": "/es/docs/es/Settings/"
               }
             },
             {
@@ -702,7 +702,7 @@
               "source": "@site/docs/es/Settings/Settings.md",
               "sourceDirName": "es/Settings",
               "slug": "/es/Settings/",
-              "permalink": "/docs/es/Settings/",
+              "permalink": "/es/docs/es/Settings/",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -710,27 +710,27 @@
               "sidebar": "es",
               "previous": {
                 "title": "Planes y Suscripciones",
-                "permalink": "/docs/es/PlansAndSubscriptions/"
+                "permalink": "/es/docs/es/PlansAndSubscriptions/"
               }
             },
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Cuadds Documentation",
-              "description": "⚡️ Welcome to our cuadds documentation.",
-              "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/intro.md",
+              "title": "Documentación de Cuadds",
+              "description": "⚡️ Bienvenido/a a nuestra documentación de Cuadds.",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/es/docs/intro",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
                 "id": "intro",
-                "title": "Cuadds Documentation",
-                "displayed_sidebar": "en"
+                "title": "Documentación de Cuadds",
+                "displayed_sidebar": "es"
               },
-              "sidebar": "en"
+              "sidebar": "es"
             }
           ],
           "drafts": [],
@@ -946,32 +946,32 @@
   },
   "docusaurus-plugin-content-blog": {
     "default": {
-      "blogSidebarTitle": "Recent posts",
+      "blogSidebarTitle": "Posts recientes",
       "blogPosts": [
         {
-          "id": "welcome",
+          "id": "HOLAAA",
           "metadata": {
-            "permalink": "/blog/welcome",
-            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "permalink": "/es/blog/HOLAAA",
+            "source": "@site/i18n/es/docusaurus-plugin-content-blog/2021-08-26-welcome/index.md",
             "title": "Welcome to our Cuadd tutorials!",
             "description": "Welcome to our Cuadds blog!",
             "date": "2021-08-26T00:00:00.000Z",
-            "formattedDate": "August 26, 2021",
+            "formattedDate": "26 de agosto de 2021",
             "tags": [
               {
                 "label": "Cuadds",
-                "permalink": "/blog/tags/cuadds"
+                "permalink": "/es/blog/tags/cuadds"
               },
               {
                 "label": "Productivity",
-                "permalink": "/blog/tags/productivity"
+                "permalink": "/es/blog/tags/productivity"
               },
               {
                 "label": "Blog",
-                "permalink": "/blog/tags/blog"
+                "permalink": "/es/blog/tags/blog"
               }
             ],
-            "readingTime": 0.525,
+            "readingTime": 0.94,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -990,7 +990,7 @@
               }
             ],
             "frontMatter": {
-              "slug": "welcome",
+              "slug": "HOLAAA",
               "title": "Welcome to our Cuadd tutorials!",
               "authors": [
                 "Kay",
@@ -1003,32 +1003,32 @@
               ]
             },
             "nextItem": {
-              "title": "Poniendo orden al caos creativo",
-              "permalink": "/blog/caos-creativo"
+              "title": "Poniendo orden al caos creativo HOLAA",
+              "permalink": "/es/blog/caos-creativo"
             }
           },
-          "content": "Welcome to our Cuadds blog!\n\n Here, we're excited to share a wealth of insights and information centered around productivity, business strategies, and the ever-evolving landscape of remote work. Our aim is to provide you with valuable content that empowers you to excel in your professional journey. From tips on optimizing your workflow to navigating the intricacies of modern business practices, our blog will be your go-to resource for staying ahead in today's dynamic work environment. Join us as we explore a diverse range of topics aimed at enhancing your skills, expanding your business horizons, and making remote work not just a possibility, but a triumph."
+          "content": "Welcome to our Cuadds blog!\n\n Here, we're excited to share a wealth of insights and information centered around productivity, business strategies, and the ever-evolving landscape of remote work. Our aim is to provide you with valuable content that empowers you to excel in your professional journey. From tips on optimizing your workflow to navigating the intricacies of modern business practices, our blog will be your go-to resource for staying ahead in today's dynamic work environment. Join us as we explore a diverse range of topics aimed at enhancing your skills, expanding your business horizons, and making remote work not just a possibility, but a triumph.\n<!-- [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config. -->"
         },
         {
           "id": "caos-creativo",
           "metadata": {
-            "permalink": "/blog/caos-creativo",
-            "source": "@site/blog/2019-05-29-long-blog-post.md",
-            "title": "Poniendo orden al caos creativo",
-            "description": "Hola cuadders, soy Ana, Gestora de Cuentas de Orgánica Consultoría, una agencia de marketing amante de Cuadds.",
+            "permalink": "/es/blog/caos-creativo",
+            "source": "@site/i18n/es/docusaurus-plugin-content-blog/2019-05-29-long-blog-post.md",
+            "title": "Poniendo orden al caos creativo HOLAA",
+            "description": "HOLAAA  Hola cuadders, soy Ana, Gestora de Cuentas de Orgánica Consultoría, una agencia de marketing amante de Cuadds.",
             "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
+            "formattedDate": "29 de mayo de 2019",
             "tags": [
               {
                 "label": "productividad",
-                "permalink": "/blog/tags/productividad"
+                "permalink": "/es/blog/tags/productividad"
               },
               {
                 "label": "trabajoenequipo",
-                "permalink": "/blog/tags/trabajoenequipo"
+                "permalink": "/es/blog/tags/trabajoenequipo"
               }
             ],
-            "readingTime": 2.405,
+            "readingTime": 2.41,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -1041,7 +1041,7 @@
             ],
             "frontMatter": {
               "slug": "caos-creativo",
-              "title": "Poniendo orden al caos creativo",
+              "title": "Poniendo orden al caos creativo HOLAA",
               "authors": [
                 "Ana"
               ],
@@ -1052,32 +1052,32 @@
             },
             "prevItem": {
               "title": "Welcome to our Cuadd tutorials!",
-              "permalink": "/blog/welcome"
+              "permalink": "/es/blog/HOLAAA"
             },
             "nextItem": {
               "title": "El Poder de la Flexibilidad",
-              "permalink": "/blog/el-poder-de-la-flexibilidad"
+              "permalink": "/es/blog/el-poder-de-la-flexibilidad"
             }
           },
-          "content": "Hola cuadders, soy Ana, Gestora de Cuentas de Orgánica Consultoría, una agencia de marketing amante de Cuadds. \nUno de los grandes problemas de las empresas y las personas que trabajamos en el rubro creativo, es el organizar toda la información que recibimos y producimos. Poder vaciar el contenido de nuestra mente, de forma simple e intuitiva. \n\nA lo largo de los años, el intercambio de tips y herramientas entre amistades, colegas y conocidos se ha vuelto común; desde los cuadernos y libretas de apuntes, que terminas olvidando en la oficina de algún cliente; los post-it que terminan empapelando tu escritorio, hasta los programas on line que comienzan siendo simples de usar y terminan necesitando casi un grado de ingeniería para poder deducir cómo crear “esa plantilla tan genial que viste en tiktok” y que finalmente no se ajustó a lo que necesitabas. \nUno de mis grandes descubrimientos ha sido Cuadds, la herramienta que implementamos en Orgánica hace ya más de un año, con la cual inicié a atender clientes y cuentas, y que terminé usando para organizar mis proyectos personales y por qué no decirlo, un poquito, mi vida.\n\nLo sé, lo hemos pasado todos, al inicio cuesta aceptar una nueva herramienta, sobre todo cuando ésta no ha sido la primera herramienta en usarse en el trabajo. El recuerdo de todos los intentos de organizarse, de las tablas de Excel que no funcionaron y la colección de cuadernos y notitas con apuntes a un lado de tu computadora, además de las N aplicaciones que aún tienes en tu computadora y tu teléfono consumiéndote valioso espacio de memoria, te van llenando de escepticismo y terminas pensando “Oh genial, otra herramienta mágica que promete ser simple y que terminará complicándome el día”.\n\nLo grandioso de Cuadds, es que nunca rompió su promesa de ser simple. Y simple e intuitiva son dos de las cosas más importantes en una herramienta de organización para una persona creativa. \nDesde las listas de pendientes que puedo crear y personalizar con emoticones que significan algo para mí, los cronogramas personalizados para cada cliente, hasta haber concebido y organizado un evento simplemente usando Cuadds como mi gran hoja en blanco a la que pude agregarle imágenes, links, bases de datos y tener todo lo que necesitaba saber en un solo golpe de vista. \n\n¿Lo mejor?, el poder elegir en dos pasos qué cuadd compartir, lo que me ha permitido trabajar en colaboración con clientes en otras ciudades que no podían creer lo sencillo que era organizarse y mover una tarea, una nota o un dato de un lugar a otro. \n\nEn mi oficina tenemos una actividad entre los encargados de cuenta, siempre estamos compartiéndonos la forma en que innovamos usando Cuadds, y la manera en que nos funcionó mejor para armar el calendario de X proyecto. Te invito a que pruebes Cuadds, y nos muestres, ¿cómo lo usarías tú?"
+          "content": "HOLAAA  Hola cuadders, soy Ana, Gestora de Cuentas de Orgánica Consultoría, una agencia de marketing amante de Cuadds. \nUno de los grandes problemas de las empresas y las personas que trabajamos en el rubro creativo, es el organizar toda la información que recibimos y producimos. Poder vaciar el contenido de nuestra mente, de forma simple e intuitiva. \n\nA lo largo de los años, el intercambio de tips y herramientas entre amistades, colegas y conocidos se ha vuelto común; desde los cuadernos y libretas de apuntes, que terminas olvidando en la oficina de algún cliente; los post-it que terminan empapelando tu escritorio, hasta los programas on line que comienzan siendo simples de usar y terminan necesitando casi un grado de ingeniería para poder deducir cómo crear “esa plantilla tan genial que viste en tiktok” y que finalmente no se ajustó a lo que necesitabas. \nUno de mis grandes descubrimientos ha sido Cuadds, la herramienta que implementamos en Orgánica hace ya más de un año, con la cual inicié a atender clientes y cuentas, y que terminé usando para organizar mis proyectos personales y por qué no decirlo, un poquito, mi vida.\n\nLo sé, lo hemos pasado todos, al inicio cuesta aceptar una nueva herramienta, sobre todo cuando ésta no ha sido la primera herramienta en usarse en el trabajo. El recuerdo de todos los intentos de organizarse, de las tablas de Excel que no funcionaron y la colección de cuadernos y notitas con apuntes a un lado de tu computadora, además de las N aplicaciones que aún tienes en tu computadora y tu teléfono consumiéndote valioso espacio de memoria, te van llenando de escepticismo y terminas pensando “Oh genial, otra herramienta mágica que promete ser simple y que terminará complicándome el día”.\n\nLo grandioso de Cuadds, es que nunca rompió su promesa de ser simple. Y simple e intuitiva son dos de las cosas más importantes en una herramienta de organización para una persona creativa. \nDesde las listas de pendientes que puedo crear y personalizar con emoticones que significan algo para mí, los cronogramas personalizados para cada cliente, hasta haber concebido y organizado un evento simplemente usando Cuadds como mi gran hoja en blanco a la que pude agregarle imágenes, links, bases de datos y tener todo lo que necesitaba saber en un solo golpe de vista. \n\n¿Lo mejor?, el poder elegir en dos pasos qué cuadd compartir, lo que me ha permitido trabajar en colaboración con clientes en otras ciudades que no podían creer lo sencillo que era organizarse y mover una tarea, una nota o un dato de un lugar a otro. \n\nEn mi oficina tenemos una actividad entre los encargados de cuenta, siempre estamos compartiéndonos la forma en que innovamos usando Cuadds, y la manera en que nos funcionó mejor para armar el calendario de X proyecto. Te invito a que pruebes Cuadds, y nos muestres, ¿cómo lo usarías tú?"
         },
         {
           "id": "el-poder-de-la-flexibilidad",
           "metadata": {
-            "permalink": "/blog/el-poder-de-la-flexibilidad",
-            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "permalink": "/es/blog/el-poder-de-la-flexibilidad",
+            "source": "@site/i18n/es/docusaurus-plugin-content-blog/2019-05-28-first-blog-post.md",
             "title": "El Poder de la Flexibilidad",
             "description": "¡Hola a todos los fans del trabajo y la productividad! Hoy queremos hablarles sobre un tema clave en el mundo laboral: la flexibilidad en la organización de tareas. ¿Alguna vez te has sentido limitado por un enfoque de \"talla única\" para la gestión de proyectos? ¿Te has dado cuenta de que eso puede apagar tu creatividad y disminuir tu productividad?",
             "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
+            "formattedDate": "28 de mayo de 2019",
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/es/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/es/blog/tags/docusaurus"
               }
             ],
             "readingTime": 1.425,
@@ -1103,8 +1103,8 @@
               ]
             },
             "prevItem": {
-              "title": "Poniendo orden al caos creativo",
-              "permalink": "/blog/caos-creativo"
+              "title": "Poniendo orden al caos creativo HOLAA",
+              "permalink": "/es/blog/caos-creativo"
             }
           },
           "content": "¡Hola a todos los fans del trabajo y la productividad! Hoy queremos hablarles sobre un tema clave en el mundo laboral: la flexibilidad en la organización de tareas. ¿Alguna vez te has sentido limitado por un enfoque de \"talla única\" para la gestión de proyectos? ¿Te has dado cuenta de que eso puede apagar tu creatividad y disminuir tu productividad?\n\nTodos somos diferentes y tenemos formas únicas de aprender y trabajar. Cuando nos vemos limitados por estructuras rígidas, nuestra creatividad se ve restringida, lo que a su vez afecta nuestra productividad. En lugar de fluir con nuestras ideas y enfoques, nos vemos forzados a encajarlas dentro de un sistema preestablecido. Sin embargo, cuando nos permitimos organizar nuestras tareas de manera personalizada, experimentamos una sensación de libertad que nos motiva y empodera para dar lo mejor de nosotros en cada proyecto. Esta flexibilidad nos brinda la oportunidad de explorar nuevos ritmos y soluciones innovadoras, liberando nuestro potencial creativo y permitiéndonos alcanzar nuevas alturas en nuestros logros.\n\nCada departamento en una organización es único, con sus propios desafíos y peculiaridades. Entonces, ¿por qué limitarse a una solución estándar? En Cuadds, te brindamos un espacio para que des rienda suelta a tu creatividad y puedas construir tus mundos personalizados. Queremos que tengas el poder de adaptar tus tareas y flujos de trabajo de forma sencilla y flexible, organizándote a tu manera. Nuestra meta es ofrecerte una experiencia única y personalizable, donde cada detalle se ajuste perfectamente a tus necesidades. Diseña una estructura de tareas y flujos de trabajo que reflejen tu estilo de tu equipo y sus singularidades.\nAsí que, ¿qué estás esperando? Es hora de ponerle diversión, creatividad y productividad a tu día a día laboral 🎉💃"
@@ -1113,12 +1113,12 @@
       "blogListPaginated": [
         {
           "items": [
-            "welcome",
+            "HOLAAA",
             "caos-creativo",
             "el-poder-de-la-flexibilidad"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/es/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -1129,19 +1129,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/cuadds": {
+        "/es/blog/tags/cuadds": {
           "label": "Cuadds",
           "items": [
-            "welcome"
+            "HOLAAA"
           ],
-          "permalink": "/blog/tags/cuadds",
+          "permalink": "/es/blog/tags/cuadds",
           "pages": [
             {
               "items": [
-                "welcome"
+                "HOLAAA"
               ],
               "metadata": {
-                "permalink": "/blog/tags/cuadds",
+                "permalink": "/es/blog/tags/cuadds",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1152,19 +1152,19 @@
             }
           ]
         },
-        "/blog/tags/productivity": {
+        "/es/blog/tags/productivity": {
           "label": "Productivity",
           "items": [
-            "welcome"
+            "HOLAAA"
           ],
-          "permalink": "/blog/tags/productivity",
+          "permalink": "/es/blog/tags/productivity",
           "pages": [
             {
               "items": [
-                "welcome"
+                "HOLAAA"
               ],
               "metadata": {
-                "permalink": "/blog/tags/productivity",
+                "permalink": "/es/blog/tags/productivity",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1175,19 +1175,19 @@
             }
           ]
         },
-        "/blog/tags/blog": {
+        "/es/blog/tags/blog": {
           "label": "Blog",
           "items": [
-            "welcome"
+            "HOLAAA"
           ],
-          "permalink": "/blog/tags/blog",
+          "permalink": "/es/blog/tags/blog",
           "pages": [
             {
               "items": [
-                "welcome"
+                "HOLAAA"
               ],
               "metadata": {
-                "permalink": "/blog/tags/blog",
+                "permalink": "/es/blog/tags/blog",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1198,19 +1198,19 @@
             }
           ]
         },
-        "/blog/tags/productividad": {
+        "/es/blog/tags/productividad": {
           "label": "productividad",
           "items": [
             "caos-creativo"
           ],
-          "permalink": "/blog/tags/productividad",
+          "permalink": "/es/blog/tags/productividad",
           "pages": [
             {
               "items": [
                 "caos-creativo"
               ],
               "metadata": {
-                "permalink": "/blog/tags/productividad",
+                "permalink": "/es/blog/tags/productividad",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1221,19 +1221,19 @@
             }
           ]
         },
-        "/blog/tags/trabajoenequipo": {
+        "/es/blog/tags/trabajoenequipo": {
           "label": "trabajoenequipo",
           "items": [
             "caos-creativo"
           ],
-          "permalink": "/blog/tags/trabajoenequipo",
+          "permalink": "/es/blog/tags/trabajoenequipo",
           "pages": [
             {
               "items": [
                 "caos-creativo"
               ],
               "metadata": {
-                "permalink": "/blog/tags/trabajoenequipo",
+                "permalink": "/es/blog/tags/trabajoenequipo",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1244,19 +1244,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/es/blog/tags/hola": {
           "label": "hola",
           "items": [
             "el-poder-de-la-flexibilidad"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/es/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "el-poder-de-la-flexibilidad"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/es/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1267,19 +1267,19 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/es/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "el-poder-de-la-flexibilidad"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/es/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
                 "el-poder-de-la-flexibilidad"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/es/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1291,14 +1291,14 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/es/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/es/",
         "source": "@site/src/pages/index.js"
       }
     ]

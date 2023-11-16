@@ -2,7 +2,7 @@
 
 Para copiar o duplicar un Cuadd y crear uno nuevo con la misma información, puedes utilizar el botón "Duplicar en..." en el [**menú de opciones de los Cuadds**](./CuaddOptionMenu.md). Esto creará una copia del Cuadd en el que te encuentras.
 
- <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138716/Screen_Shot_2023-10-12_at_14.08.06.png" className="image-1" alt="Imagen duplicación" style={{ height: '250px' }}></img> 
+ <img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138716/Screen_Shot_2023-10-12_at_14.08.06.png" className="image-1" alt="Imagen duplicación" style={{ height: '450px' }}></img> 
 
 ### La diferencia entre ["Reflejos"](./Reflections.md) y ["Duplicación"](./Duplication.md)
 

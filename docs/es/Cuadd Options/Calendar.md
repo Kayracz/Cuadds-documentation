@@ -19,15 +19,15 @@ Para agregar un Cuadd a tu **calendario** o establecer una **fecha/hora de venci
 
 **1.** Presiona el botón de fecha/hora de vencimiento:
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697137949/Screen_Shot_2023-10-12_at_14.02.05.png" className="image-3" alt="Imagen calendario" style={{ height: '390px' }}></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697137949/Screen_Shot_2023-10-12_at_14.02.05.png" className="image-3" alt="Imagen calendario" style={{ height: '490px' }}></img>
 
 **2.** Selecciona una fecha:
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138052/Screen_Shot_2023-10-12_at_14.02.40.png" className="image-3" alt="Imagen calendario" style={{ height: '390px' }}></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138052/Screen_Shot_2023-10-12_at_14.02.40.png" className="image-3" alt="Imagen calendario" style={{ height: '410px' }}></img>
 
 **3.** Selecciona la hora:
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138308/Screen_Shot_2023-10-12_at_14.03.11.png" className="image-3" alt="Imagen calendario" style={{ height: '390px' }}></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697138308/Screen_Shot_2023-10-12_at_14.03.11.png" className="image-3" alt="Imagen calendario" style={{ height: '410px' }}></img>
 
 **4.** Visualiza tu calendario con tu nuevo Cuadd:
 

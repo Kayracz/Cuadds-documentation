@@ -8,4 +8,4 @@ Dentro de **configuración**, puedes ver y editar información como:
 - **Almacenamiento**: aquí puedes ver el espacio de almacenamiento utilizado y el botón de actualización para comprar más espacio para tus archivos.
 - **Plan Early Supporter**: aquí puedes obtener más información sobre nuestro [Plan Early Supporter](../PlansAndSubscriptions/PlansAndSubscriptions.md)
 
-<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697139159/Screen_Shot_2023-10-12_at_14.37.03.png" className="image-1" alt="Settings image" style={{ height: '360px' }}></img>
+<img src="https://res.cloudinary.com/deruwllkv/image/upload/v1697139159/Screen_Shot_2023-10-12_at_14.37.03.png" className="image-1" alt="Settings image" style={{ height: '390px' }}></img>
