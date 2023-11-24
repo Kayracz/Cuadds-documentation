@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuadd_docs=self.webpackChunkcuadd_docs||[]).push([[4195],{2841:(n,o,e)=>{e.r(o),e.d(o,{default:()=>c});var t=e(7294);function c(){return(0,t.useEffect)((()=>{const n={en:"/docs/intro",es:"/docs/intro"}[window.location.pathname.split("/")[1]]||"/docs/intro";window.location.pathname!==n&&(window.location.href=n)}),[]),t.createElement("div",null)}}}]);
