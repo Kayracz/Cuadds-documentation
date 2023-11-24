@@ -6,7 +6,7 @@
   "source": "@site/docs/en/Cuadd Options/Calendar.md",
   "sourceDirName": "en/Cuadd Options",
   "slug": "/en/Cuadd Options/Calendar",
-  "permalink": "/es/docs/en/Cuadd Options/Calendar",
+  "permalink": "/docs/en/Cuadd Options/Calendar",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "en",
   "previous": {
     "title": "Bookmarks",
-    "permalink": "/es/docs/en/Cuadd Options/Bookmarks"
+    "permalink": "/docs/en/Cuadd Options/Bookmarks"
   },
   "next": {
     "title": "Movement",
-    "permalink": "/es/docs/en/Cuadd Options/Movement"
+    "permalink": "/docs/en/Cuadd Options/Movement"
   }
 }
