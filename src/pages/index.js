@@ -15,3 +15,4 @@ export default function Home() {
   // Server-side fallback to prevent any rendering errors
   return <div></div>;
 }
+
