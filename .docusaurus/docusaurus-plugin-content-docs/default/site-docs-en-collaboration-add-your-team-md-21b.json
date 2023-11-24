@@ -6,7 +6,7 @@
   "source": "@site/docs/en/Collaboration/AddYourTeam.md",
   "sourceDirName": "en/Collaboration",
   "slug": "/en/Collaboration/AddYourTeam",
-  "permalink": "/es/docs/en/Collaboration/AddYourTeam",
+  "permalink": "/docs/en/Collaboration/AddYourTeam",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "en",
   "previous": {
     "title": "Deleting",
-    "permalink": "/es/docs/en/Cuadd Options/Deletion"
+    "permalink": "/docs/en/Cuadd Options/Deletion"
   },
   "next": {
     "title": "Chat with your team",
-    "permalink": "/es/docs/en/Collaboration/Chat"
+    "permalink": "/docs/en/Collaboration/Chat"
   }
 }

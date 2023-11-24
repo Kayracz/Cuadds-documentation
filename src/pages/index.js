@@ -2,20 +2,16 @@ import React, { useEffect } from 'react';
 
 export default function Home() {
   useEffect(() => {
-    const currentPath = window.location.pathname;
 
-    // Asumiendo que '/docs/intro' es la página de inicio para inglés
-    // y '/es/docs/intro' para español
-    const shouldBeEnglishHome = currentPath === '/' || currentPath === '/docs/intro';
-    const shouldBeSpanishHome = currentPath === '/es/' || currentPath === '/es/docs/intro';
+    // Constructing the redirection URL
+    const redirectionURL = '/docs/intro';
 
-    // Si no estamos en una de las páginas de inicio, redirigir y recargar
-    if (!shouldBeEnglishHome && !shouldBeSpanishHome) {
-      const newPath = currentPath.startsWith('/es/') ? '/es/docs/intro' : '/docs/intro';
-      window.location.href = newPath;
-      window.location.reload();
+    // Redirect to the appropriate language-specific URL
+    if (window.location.pathname !== redirectionURL) {
+      window.location.href = redirectionURL;
     }
   }, []);
 
+  // Server-side fallback to prevent any rendering errors
   return <div></div>;
 }
