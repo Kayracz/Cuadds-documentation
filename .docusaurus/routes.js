@@ -3,305 +3,270 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '914'),
+    path: '/es/blog',
+    component: ComponentCreator('/es/blog', '890'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '96a'),
+    path: '/es/blog/archive',
+    component: ComponentCreator('/es/blog/archive', '266'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'c20'),
+    path: '/es/blog/caos-creativo',
+    component: ComponentCreator('/es/blog/caos-creativo', '18f'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '489'),
+    path: '/es/blog/el-poder-de-la-flexibilidad',
+    component: ComponentCreator('/es/blog/el-poder-de-la-flexibilidad', 'b31'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'f28'),
+    path: '/es/blog/HOLAAA',
+    component: ComponentCreator('/es/blog/HOLAAA', '383'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'f07'),
+    path: '/es/blog/tags',
+    component: ComponentCreator('/es/blog/tags', '3a2'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '801'),
+    path: '/es/blog/tags/blog',
+    component: ComponentCreator('/es/blog/tags/blog', '697'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '62d'),
+    path: '/es/blog/tags/cuadds',
+    component: ComponentCreator('/es/blog/tags/cuadds', '3a0'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '10f'),
+    path: '/es/blog/tags/docusaurus',
+    component: ComponentCreator('/es/blog/tags/docusaurus', '6e2'),
     exact: true
   },
   {
-    path: '/blog/caos-creativo',
-    component: ComponentCreator('/blog/caos-creativo', '3f2'),
+    path: '/es/blog/tags/hola',
+    component: ComponentCreator('/es/blog/tags/hola', '0ed'),
     exact: true
   },
   {
-    path: '/blog/el-poder-de-la-flexibilidad',
-    component: ComponentCreator('/blog/el-poder-de-la-flexibilidad', '730'),
+    path: '/es/blog/tags/productividad',
+    component: ComponentCreator('/es/blog/tags/productividad', '2a4'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'b45'),
+    path: '/es/blog/tags/productivity',
+    component: ComponentCreator('/es/blog/tags/productivity', '27d'),
     exact: true
   },
   {
-    path: '/blog/tags/blog',
-    component: ComponentCreator('/blog/tags/blog', 'ace'),
+    path: '/es/blog/tags/trabajoenequipo',
+    component: ComponentCreator('/es/blog/tags/trabajoenequipo', 'e83'),
     exact: true
   },
   {
-    path: '/blog/tags/cuadds',
-    component: ComponentCreator('/blog/tags/cuadds', '45d'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'b26'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '735'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/productividad',
-    component: ComponentCreator('/blog/tags/productividad', '252'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/productivity',
-    component: ComponentCreator('/blog/tags/productivity', '4a0'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/trabajoenequipo',
-    component: ComponentCreator('/blog/tags/trabajoenequipo', 'dcf'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '709'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '86b'),
+    path: '/es/docs',
+    component: ComponentCreator('/es/docs', 'ac1'),
     routes: [
       {
-        path: '/docs/en/Collaboration/AddYourTeam',
-        component: ComponentCreator('/docs/en/Collaboration/AddYourTeam', '1d3'),
+        path: '/es/docs/en/Collaboration/AddYourTeam',
+        component: ComponentCreator('/es/docs/en/Collaboration/AddYourTeam', '264'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Collaboration/Chat',
-        component: ComponentCreator('/docs/en/Collaboration/Chat', '7d1'),
+        path: '/es/docs/en/Collaboration/Chat',
+        component: ComponentCreator('/es/docs/en/Collaboration/Chat', 'b65'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Bookmarks',
-        component: ComponentCreator('/docs/en/Cuadd Options/Bookmarks', '7b1'),
+        path: '/es/docs/en/Cuadd Options/Bookmarks',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Bookmarks', '61e'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Calendar',
-        component: ComponentCreator('/docs/en/Cuadd Options/Calendar', '5bb'),
+        path: '/es/docs/en/Cuadd Options/Calendar',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Calendar', '510'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/CuaddOptionMenu',
-        component: ComponentCreator('/docs/en/Cuadd Options/CuaddOptionMenu', '9cd'),
+        path: '/es/docs/en/Cuadd Options/CuaddOptionMenu',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/CuaddOptionMenu', '983'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Deletion',
-        component: ComponentCreator('/docs/en/Cuadd Options/Deletion', '7bd'),
+        path: '/es/docs/en/Cuadd Options/Deletion',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Deletion', 'a8a'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Duplication',
-        component: ComponentCreator('/docs/en/Cuadd Options/Duplication', '44e'),
+        path: '/es/docs/en/Cuadd Options/Duplication',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Duplication', '7b2'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Files',
-        component: ComponentCreator('/docs/en/Cuadd Options/Files', 'cb2'),
+        path: '/es/docs/en/Cuadd Options/Files',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Files', 'c4a'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Movement',
-        component: ComponentCreator('/docs/en/Cuadd Options/Movement', '259'),
+        path: '/es/docs/en/Cuadd Options/Movement',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Movement', '11e'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Reflections',
-        component: ComponentCreator('/docs/en/Cuadd Options/Reflections', '2b9'),
+        path: '/es/docs/en/Cuadd Options/Reflections',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Reflections', '1a4'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/Styling',
-        component: ComponentCreator('/docs/en/Cuadd Options/Styling', 'a91'),
+        path: '/es/docs/en/Cuadd Options/Styling',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/Styling', '41c'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Cuadd Options/TaskAndNote',
-        component: ComponentCreator('/docs/en/Cuadd Options/TaskAndNote', '7f4'),
+        path: '/es/docs/en/Cuadd Options/TaskAndNote',
+        component: ComponentCreator('/es/docs/en/Cuadd Options/TaskAndNote', 'a41'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/cuaddsPhilosophy',
-        component: ComponentCreator('/docs/en/cuaddsPhilosophy', 'ba5'),
+        path: '/es/docs/en/cuaddsPhilosophy',
+        component: ComponentCreator('/es/docs/en/cuaddsPhilosophy', '8dc'),
         exact: true
       },
       {
-        path: '/docs/en/intro',
-        component: ComponentCreator('/docs/en/intro', '282'),
+        path: '/es/docs/en/intro',
+        component: ComponentCreator('/es/docs/en/intro', '441'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/PlansAndSubscriptions/',
-        component: ComponentCreator('/docs/en/PlansAndSubscriptions/', 'a87'),
+        path: '/es/docs/en/PlansAndSubscriptions/',
+        component: ComponentCreator('/es/docs/en/PlansAndSubscriptions/', '278'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/en/Settings/',
-        component: ComponentCreator('/docs/en/Settings/', '4db'),
+        path: '/es/docs/en/Settings/',
+        component: ComponentCreator('/es/docs/en/Settings/', '874'),
         exact: true,
         sidebar: "en"
       },
       {
-        path: '/docs/es/Collaboration/AddYourTeam',
-        component: ComponentCreator('/docs/es/Collaboration/AddYourTeam', 'bd2'),
+        path: '/es/docs/es/Collaboration/AddYourTeam',
+        component: ComponentCreator('/es/docs/es/Collaboration/AddYourTeam', '960'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Collaboration/Chat',
-        component: ComponentCreator('/docs/es/Collaboration/Chat', 'acd'),
+        path: '/es/docs/es/Collaboration/Chat',
+        component: ComponentCreator('/es/docs/es/Collaboration/Chat', '35b'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Bookmarks',
-        component: ComponentCreator('/docs/es/Cuadd Options/Bookmarks', 'd9c'),
+        path: '/es/docs/es/Cuadd Options/Bookmarks',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Bookmarks', 'c94'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Calendar',
-        component: ComponentCreator('/docs/es/Cuadd Options/Calendar', '6e0'),
+        path: '/es/docs/es/Cuadd Options/Calendar',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Calendar', 'bef'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/CuaddOptionMenu',
-        component: ComponentCreator('/docs/es/Cuadd Options/CuaddOptionMenu', '717'),
+        path: '/es/docs/es/Cuadd Options/CuaddOptionMenu',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/CuaddOptionMenu', 'b80'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Deletion',
-        component: ComponentCreator('/docs/es/Cuadd Options/Deletion', 'f6d'),
+        path: '/es/docs/es/Cuadd Options/Deletion',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Deletion', 'e4c'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Duplication',
-        component: ComponentCreator('/docs/es/Cuadd Options/Duplication', '5b1'),
+        path: '/es/docs/es/Cuadd Options/Duplication',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Duplication', 'eb4'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Files',
-        component: ComponentCreator('/docs/es/Cuadd Options/Files', '9eb'),
+        path: '/es/docs/es/Cuadd Options/Files',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Files', 'f58'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Movement',
-        component: ComponentCreator('/docs/es/Cuadd Options/Movement', '597'),
+        path: '/es/docs/es/Cuadd Options/Movement',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Movement', 'd76'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Reflections',
-        component: ComponentCreator('/docs/es/Cuadd Options/Reflections', '864'),
+        path: '/es/docs/es/Cuadd Options/Reflections',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Reflections', 'df9'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/Styling',
-        component: ComponentCreator('/docs/es/Cuadd Options/Styling', '75e'),
+        path: '/es/docs/es/Cuadd Options/Styling',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/Styling', '916'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Cuadd Options/TaskAndNote',
-        component: ComponentCreator('/docs/es/Cuadd Options/TaskAndNote', '12a'),
+        path: '/es/docs/es/Cuadd Options/TaskAndNote',
+        component: ComponentCreator('/es/docs/es/Cuadd Options/TaskAndNote', '802'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/intro',
-        component: ComponentCreator('/docs/es/intro', 'd9f'),
+        path: '/es/docs/es/intro',
+        component: ComponentCreator('/es/docs/es/intro', '76c'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/PlansAndSubscriptions/',
-        component: ComponentCreator('/docs/es/PlansAndSubscriptions/', '043'),
+        path: '/es/docs/es/PlansAndSubscriptions/',
+        component: ComponentCreator('/es/docs/es/PlansAndSubscriptions/', '13e'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/es/Settings/',
-        component: ComponentCreator('/docs/es/Settings/', '63a'),
+        path: '/es/docs/es/Settings/',
+        component: ComponentCreator('/es/docs/es/Settings/', 'c37'),
         exact: true,
         sidebar: "es"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', '6bf'),
+        path: '/es/docs/intro',
+        component: ComponentCreator('/es/docs/intro', 'c93'),
         exact: true,
-        sidebar: "en"
+        sidebar: "es"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '685'),
+    path: '/es/',
+    component: ComponentCreator('/es/', '9ee'),
     exact: true
   },
   {
