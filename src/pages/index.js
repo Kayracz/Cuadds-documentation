@@ -7,7 +7,7 @@ export default function Home() {
 
     const languagePaths = {
       en: '/docs/intro',
-      es: '/docs/intro',
+      es: '/es/docs/intro',
     };
 
     // Constructing the redirection URL
