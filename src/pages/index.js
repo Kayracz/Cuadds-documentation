@@ -2,23 +2,13 @@ import React, { useEffect } from 'react';
 
 export default function Home() {
   useEffect(() => {
-    // Getting the current language from the URL on the client-side
-    const currentLanguage = window.location.pathname.split('/')[1];
-
-    const languagePaths = {
-      en: '/docs/intro',
-      es: '/es/docs/intro',
-    };
-
-    // Constructing the redirection URL
-    const redirectionURL = languagePaths[currentLanguage] || '/docs/intro';
-
-    // Redirect to the appropriate language-specific URL
-    if (window.location.pathname !== redirectionURL) {
-      window.location.href = redirectionURL;
+    // Si el usuario está en la raíz del sitio, redirigir a /docs/intro
+    if (window.location.pathname === '/') {
+      window.location.href = '/docs/intro';
     }
   }, []);
 
-  // Server-side fallback to prevent any rendering errors
+  // Mientras se realiza la redirección, puedes mostrar un contenido de carga o dejarlo en blanco
   return <div></div>;
 }
+
