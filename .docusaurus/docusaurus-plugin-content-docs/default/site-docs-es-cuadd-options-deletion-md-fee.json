@@ -6,7 +6,7 @@
   "source": "@site/docs/es/Cuadd Options/Deletion.md",
   "sourceDirName": "es/Cuadd Options",
   "slug": "/es/Cuadd Options/Deletion",
-  "permalink": "/docs/es/Cuadd Options/Deletion",
+  "permalink": "/es/docs/es/Cuadd Options/Deletion",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "es",
   "previous": {
     "title": "Duplicación",
-    "permalink": "/docs/es/Cuadd Options/Duplication"
+    "permalink": "/es/docs/es/Cuadd Options/Duplication"
   },
   "next": {
     "title": "Invita a tus compañeros de equipo",
-    "permalink": "/docs/es/Collaboration/AddYourTeam"
+    "permalink": "/es/docs/es/Collaboration/AddYourTeam"
   }
 }
