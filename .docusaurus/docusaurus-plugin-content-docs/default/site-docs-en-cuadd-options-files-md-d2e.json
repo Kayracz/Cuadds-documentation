@@ -6,7 +6,7 @@
   "source": "@site/docs/en/Cuadd Options/Files.md",
   "sourceDirName": "en/Cuadd Options",
   "slug": "/en/Cuadd Options/Files",
-  "permalink": "/docs/en/Cuadd Options/Files",
+  "permalink": "/es/docs/en/Cuadd Options/Files",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "en",
   "previous": {
     "title": "Movement",
-    "permalink": "/docs/en/Cuadd Options/Movement"
+    "permalink": "/es/docs/en/Cuadd Options/Movement"
   },
   "next": {
     "title": "Reflections",
-    "permalink": "/docs/en/Cuadd Options/Reflections"
+    "permalink": "/es/docs/en/Cuadd Options/Reflections"
   }
 }

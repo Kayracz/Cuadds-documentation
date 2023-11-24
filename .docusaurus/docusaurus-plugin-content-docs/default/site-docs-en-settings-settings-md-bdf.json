@@ -6,7 +6,7 @@
   "source": "@site/docs/en/Settings/Settings.md",
   "sourceDirName": "en/Settings",
   "slug": "/en/Settings/",
-  "permalink": "/docs/en/Settings/",
+  "permalink": "/es/docs/en/Settings/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,6 +14,6 @@
   "sidebar": "en",
   "previous": {
     "title": "Plans and Subscriptions",
-    "permalink": "/docs/en/PlansAndSubscriptions/"
+    "permalink": "/es/docs/en/PlansAndSubscriptions/"
   }
 }

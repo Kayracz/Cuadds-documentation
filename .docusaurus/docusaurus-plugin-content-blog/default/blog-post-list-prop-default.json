@@ -1,17 +1,17 @@
 {
-  "title": "Recent posts",
+  "title": "Posts recientes",
   "items": [
     {
       "title": "Welcome to our Cuadd tutorials!",
-      "permalink": "/blog/welcome"
+      "permalink": "/es/blog/HOLAAA"
     },
     {
-      "title": "Poniendo orden al caos creativo",
-      "permalink": "/blog/caos-creativo"
+      "title": "Poniendo orden al caos creativo HOLAA",
+      "permalink": "/es/blog/caos-creativo"
     },
     {
       "title": "El Poder de la Flexibilidad",
-      "permalink": "/blog/el-poder-de-la-flexibilidad"
+      "permalink": "/es/blog/el-poder-de-la-flexibilidad"
     }
   ]
 }

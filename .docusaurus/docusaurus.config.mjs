@@ -7,7 +7,7 @@ export default {
   "title": "Cuadds",
   "tagline": "The freedom to organize yourself any way YOU want",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "baseUrl": "/es/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/cuadds.ico",

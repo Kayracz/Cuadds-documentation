@@ -6,7 +6,7 @@
   "source": "@site/docs/es/Cuadd Options/Bookmarks.md",
   "sourceDirName": "es/Cuadd Options",
   "slug": "/es/Cuadd Options/Bookmarks",
-  "permalink": "/docs/es/Cuadd Options/Bookmarks",
+  "permalink": "/es/docs/es/Cuadd Options/Bookmarks",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "es",
   "previous": {
     "title": "Menú de opciones",
-    "permalink": "/docs/es/Cuadd Options/CuaddOptionMenu"
+    "permalink": "/es/docs/es/Cuadd Options/CuaddOptionMenu"
   },
   "next": {
     "title": "Calendario",
-    "permalink": "/docs/es/Cuadd Options/Calendar"
+    "permalink": "/es/docs/es/Cuadd Options/Calendar"
   }
 }
