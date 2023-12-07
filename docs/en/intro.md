@@ -10,7 +10,7 @@ displayed_sidebar: en
 
 A “cuadd” is the app’s quadrilateral building block that can turn into anything: a link, a task, a note, a file, and more. Use combinations of them to see the magic!
 
-Discover Cuadds in less than 2 minutes! We'll show you right here and in upcoming articles. Let's get started! 📍
+Discover Cuadds in 2 minutes! We'll show you right here and in upcoming articles. Let's get started! 📍
 
 ## Getting Started {#-getting-started}
 
@@ -20,7 +20,7 @@ Or **try creating cuadds immediately** by clicking anywhere on the grid **[cuadd
 
 ## The basics {#-the-basics}
 
-Learn the basics of cuadds in **2min**:
+Learn the basics of cuadds in **2 min**:
 
 <div className="docvideos vp-center">
 <iframe className="vp-center docvideos" title="vimeo-player" src="https://player.vimeo.com/video/860251286?h=bb55c82265" width="600" height="500" frameBorder="0" allowFullScreen></iframe>

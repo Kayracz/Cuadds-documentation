@@ -6,7 +6,7 @@
   "source": "@site/docs/en/intro.md",
   "sourceDirName": "en",
   "slug": "/en/intro",
-  "permalink": "/docs/en/intro",
+  "permalink": "/es/docs/en/intro",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "en",
   "next": {
     "title": "Tasks and Notes",
-    "permalink": "/docs/en/Cuadd Options/TaskAndNote"
+    "permalink": "/es/docs/en/Cuadd Options/TaskAndNote"
   }
 }
