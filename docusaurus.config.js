@@ -11,8 +11,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/cuadds.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Cuadds', 
+  projectName: 'Cuadds',
 
   i18n: {
     defaultLocale: 'en',
@@ -74,14 +74,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         {
           href: 'https://www.linkedin.com/company/cuadds/',
           position: 'right',
+          className: "social-media"
         },
         {
           href: 'https://www.instagram.com/cuaddsapp/',
           position: 'right',
+          className: "social-media"
         },
         {
           href: 'https://twitter.com/cuadds',
           position: 'right',
+          className: "social-media"
         },
         // Uncomment the following lines if needed
         // {

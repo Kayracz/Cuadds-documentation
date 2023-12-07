@@ -7,12 +7,12 @@ export default {
   "title": "Cuadds",
   "tagline": "The freedom to organize yourself any way YOU want",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/es/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/cuadds.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "Cuadds",
+  "projectName": "Cuadds",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -76,15 +76,18 @@ export default {
         },
         {
           "href": "https://www.linkedin.com/company/cuadds/",
-          "position": "right"
+          "position": "right",
+          "className": "social-media"
         },
         {
           "href": "https://www.instagram.com/cuaddsapp/",
-          "position": "right"
+          "position": "right",
+          "className": "social-media"
         },
         {
           "href": "https://twitter.com/cuadds",
-          "position": "right"
+          "position": "right",
+          "className": "social-media"
         }
       ],
       "hideOnScroll": false,

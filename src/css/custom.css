@@ -90,9 +90,17 @@ margin: 8px;
 margin-left: 9px;
 }
 
+html[data-theme='dark'] .menu__list-item-collapsible .menu__link {
+  color: white; /* Change to white in dark mode */
+}
+
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
   color: white;
+}
+
+html[data-theme='dark'] .social-media {
+  filter: invert(1);
 }
 
 html[data-theme='dark'] .hero--primary{

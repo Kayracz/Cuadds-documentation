@@ -6,7 +6,7 @@
   "source": "@site/docs/es/Collaboration/Chat.md",
   "sourceDirName": "es/Collaboration",
   "slug": "/es/Collaboration/Chat",
-  "permalink": "/es/docs/es/Collaboration/Chat",
+  "permalink": "/docs/es/Collaboration/Chat",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "es",
   "previous": {
     "title": "Invita a tus compañeros de equipo",
-    "permalink": "/es/docs/es/Collaboration/AddYourTeam"
+    "permalink": "/docs/es/Collaboration/AddYourTeam"
   },
   "next": {
     "title": "Planes y Suscripciones",
-    "permalink": "/es/docs/es/PlansAndSubscriptions/"
+    "permalink": "/docs/es/PlansAndSubscriptions/"
   }
 }
