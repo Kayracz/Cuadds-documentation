@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuadd_docs=self.webpackChunkcuadd_docs||[]).push([[2634],{192:(c,d,n)=>{n.r(d),n.d(d,{default:()=>s});var o=n(6540),e=n(4848);function s(){return(0,o.useEffect)((()=>{const c="/docs/intro";window.location.pathname!==c&&(window.location.href=c)}),[]),(0,e.jsx)("div",{})}}}]);

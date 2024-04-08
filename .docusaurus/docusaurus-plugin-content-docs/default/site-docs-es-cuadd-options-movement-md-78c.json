@@ -1,23 +1,23 @@
 {
-  "unversionedId": "es/Cuadd Options/Movement",
   "id": "es/Cuadd Options/Movement",
   "title": "Movimiento",
   "description": "Para mover nuestros Cuadds de uno a otro, podemos hacerlo haciendo clic en el botón \"Mover a\" en el menú de opciones de tu Cuadd.",
   "source": "@site/docs/es/Cuadd Options/Movement.md",
   "sourceDirName": "es/Cuadd Options",
   "slug": "/es/Cuadd Options/Movement",
-  "permalink": "/es/docs/es/Cuadd Options/Movement",
+  "permalink": "/docs/es/Cuadd Options/Movement",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "es",
   "previous": {
     "title": "Calendario",
-    "permalink": "/es/docs/es/Cuadd Options/Calendar"
+    "permalink": "/docs/es/Cuadd Options/Calendar"
   },
   "next": {
     "title": "Archivos",
-    "permalink": "/es/docs/es/Cuadd Options/Files"
+    "permalink": "/docs/es/Cuadd Options/Files"
   }
 }

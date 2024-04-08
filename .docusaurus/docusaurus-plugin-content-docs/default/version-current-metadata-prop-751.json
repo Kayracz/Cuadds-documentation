@@ -16,8 +16,9 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/es/docs/en/intro",
-            "docId": "en/intro"
+            "href": "/docs/en/intro",
+            "docId": "en/intro",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -30,62 +31,72 @@
           {
             "type": "link",
             "label": "Tasks and Notes",
-            "href": "/es/docs/en/Cuadd Options/TaskAndNote",
-            "docId": "en/Cuadd Options/TaskAndNote"
+            "href": "/docs/en/Cuadd Options/TaskAndNote",
+            "docId": "en/Cuadd Options/TaskAndNote",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Styling",
-            "href": "/es/docs/en/Cuadd Options/Styling",
-            "docId": "en/Cuadd Options/Styling"
+            "href": "/docs/en/Cuadd Options/Styling",
+            "docId": "en/Cuadd Options/Styling",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Option menu",
-            "href": "/es/docs/en/Cuadd Options/CuaddOptionMenu",
-            "docId": "en/Cuadd Options/CuaddOptionMenu"
+            "href": "/docs/en/Cuadd Options/CuaddOptionMenu",
+            "docId": "en/Cuadd Options/CuaddOptionMenu",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Bookmarks",
-            "href": "/es/docs/en/Cuadd Options/Bookmarks",
-            "docId": "en/Cuadd Options/Bookmarks"
+            "href": "/docs/en/Cuadd Options/Bookmarks",
+            "docId": "en/Cuadd Options/Bookmarks",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Calendar",
-            "href": "/es/docs/en/Cuadd Options/Calendar",
-            "docId": "en/Cuadd Options/Calendar"
+            "href": "/docs/en/Cuadd Options/Calendar",
+            "docId": "en/Cuadd Options/Calendar",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Movement",
-            "href": "/es/docs/en/Cuadd Options/Movement",
-            "docId": "en/Cuadd Options/Movement"
+            "href": "/docs/en/Cuadd Options/Movement",
+            "docId": "en/Cuadd Options/Movement",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Files",
-            "href": "/es/docs/en/Cuadd Options/Files",
-            "docId": "en/Cuadd Options/Files"
+            "href": "/docs/en/Cuadd Options/Files",
+            "docId": "en/Cuadd Options/Files",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Reflections",
-            "href": "/es/docs/en/Cuadd Options/Reflections",
-            "docId": "en/Cuadd Options/Reflections"
+            "href": "/docs/en/Cuadd Options/Reflections",
+            "docId": "en/Cuadd Options/Reflections",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Duplication",
-            "href": "/es/docs/en/Cuadd Options/Duplication",
-            "docId": "en/Cuadd Options/Duplication"
+            "href": "/docs/en/Cuadd Options/Duplication",
+            "docId": "en/Cuadd Options/Duplication",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Deleting",
-            "href": "/es/docs/en/Cuadd Options/Deletion",
-            "docId": "en/Cuadd Options/Deletion"
+            "href": "/docs/en/Cuadd Options/Deletion",
+            "docId": "en/Cuadd Options/Deletion",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -98,14 +109,16 @@
           {
             "type": "link",
             "label": "Add your team members",
-            "href": "/es/docs/en/Collaboration/AddYourTeam",
-            "docId": "en/Collaboration/AddYourTeam"
+            "href": "/docs/en/Collaboration/AddYourTeam",
+            "docId": "en/Collaboration/AddYourTeam",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Chat with your team",
-            "href": "/es/docs/en/Collaboration/Chat",
-            "docId": "en/Collaboration/Chat"
+            "href": "/docs/en/Collaboration/Chat",
+            "docId": "en/Collaboration/Chat",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -118,8 +131,9 @@
           {
             "type": "link",
             "label": "Plans and Subscriptions",
-            "href": "/es/docs/en/PlansAndSubscriptions/",
-            "docId": "en/PlansAndSubscriptions/PlansAndSubscriptions"
+            "href": "/docs/en/PlansAndSubscriptions/",
+            "docId": "en/PlansAndSubscriptions/PlansAndSubscriptions",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -132,8 +146,9 @@
           {
             "type": "link",
             "label": "Settings",
-            "href": "/es/docs/en/Settings/",
-            "docId": "en/Settings/Settings"
+            "href": "/docs/en/Settings/",
+            "docId": "en/Settings/Settings",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -148,8 +163,9 @@
           {
             "type": "link",
             "label": "Descripción general",
-            "href": "/es/docs/es/intro",
-            "docId": "es/intro"
+            "href": "/docs/es/intro",
+            "docId": "es/intro",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -162,62 +178,72 @@
           {
             "type": "link",
             "label": "Tareas y/o notas",
-            "href": "/es/docs/es/Cuadd Options/TaskAndNote",
-            "docId": "es/Cuadd Options/TaskAndNote"
+            "href": "/docs/es/Cuadd Options/TaskAndNote",
+            "docId": "es/Cuadd Options/TaskAndNote",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Estilo",
-            "href": "/es/docs/es/Cuadd Options/Styling",
-            "docId": "es/Cuadd Options/Styling"
+            "href": "/docs/es/Cuadd Options/Styling",
+            "docId": "es/Cuadd Options/Styling",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Menú de opciones",
-            "href": "/es/docs/es/Cuadd Options/CuaddOptionMenu",
-            "docId": "es/Cuadd Options/CuaddOptionMenu"
+            "href": "/docs/es/Cuadd Options/CuaddOptionMenu",
+            "docId": "es/Cuadd Options/CuaddOptionMenu",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Marcadores",
-            "href": "/es/docs/es/Cuadd Options/Bookmarks",
-            "docId": "es/Cuadd Options/Bookmarks"
+            "href": "/docs/es/Cuadd Options/Bookmarks",
+            "docId": "es/Cuadd Options/Bookmarks",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Calendario",
-            "href": "/es/docs/es/Cuadd Options/Calendar",
-            "docId": "es/Cuadd Options/Calendar"
+            "href": "/docs/es/Cuadd Options/Calendar",
+            "docId": "es/Cuadd Options/Calendar",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Movimiento",
-            "href": "/es/docs/es/Cuadd Options/Movement",
-            "docId": "es/Cuadd Options/Movement"
+            "href": "/docs/es/Cuadd Options/Movement",
+            "docId": "es/Cuadd Options/Movement",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Archivos",
-            "href": "/es/docs/es/Cuadd Options/Files",
-            "docId": "es/Cuadd Options/Files"
+            "href": "/docs/es/Cuadd Options/Files",
+            "docId": "es/Cuadd Options/Files",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Reflejos",
-            "href": "/es/docs/es/Cuadd Options/Reflections",
-            "docId": "es/Cuadd Options/Reflections"
+            "href": "/docs/es/Cuadd Options/Reflections",
+            "docId": "es/Cuadd Options/Reflections",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Duplicación",
-            "href": "/es/docs/es/Cuadd Options/Duplication",
-            "docId": "es/Cuadd Options/Duplication"
+            "href": "/docs/es/Cuadd Options/Duplication",
+            "docId": "es/Cuadd Options/Duplication",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Eliminar",
-            "href": "/es/docs/es/Cuadd Options/Deletion",
-            "docId": "es/Cuadd Options/Deletion"
+            "href": "/docs/es/Cuadd Options/Deletion",
+            "docId": "es/Cuadd Options/Deletion",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -230,14 +256,16 @@
           {
             "type": "link",
             "label": "Invita a tus compañeros de equipo",
-            "href": "/es/docs/es/Collaboration/AddYourTeam",
-            "docId": "es/Collaboration/AddYourTeam"
+            "href": "/docs/es/Collaboration/AddYourTeam",
+            "docId": "es/Collaboration/AddYourTeam",
+            "unlisted": false
           },
           {
             "type": "link",
             "label": "Chatea con tu equipo",
-            "href": "/es/docs/es/Collaboration/Chat",
-            "docId": "es/Collaboration/Chat"
+            "href": "/docs/es/Collaboration/Chat",
+            "docId": "es/Collaboration/Chat",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -250,8 +278,9 @@
           {
             "type": "link",
             "label": "Planes y Suscripciones",
-            "href": "/es/docs/es/PlansAndSubscriptions/",
-            "docId": "es/PlansAndSubscriptions/PlansAndSubscriptions"
+            "href": "/docs/es/PlansAndSubscriptions/",
+            "docId": "es/PlansAndSubscriptions/PlansAndSubscriptions",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -264,8 +293,9 @@
           {
             "type": "link",
             "label": "Configuración",
-            "href": "/es/docs/es/Settings/",
-            "docId": "es/Settings/Settings"
+            "href": "/docs/es/Settings/",
+            "docId": "es/Settings/Settings",
+            "unlisted": false
           }
         ],
         "collapsed": true,
@@ -461,9 +491,9 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Documentación de Cuadds",
-      "description": "⚡️ Bienvenido/a a nuestra documentación de Cuadds.",
-      "sidebar": "es"
+      "title": "Cuadds Documentation",
+      "description": "⚡️ Welcome to our cuadds documentation.",
+      "sidebar": "en"
     }
   }
 }

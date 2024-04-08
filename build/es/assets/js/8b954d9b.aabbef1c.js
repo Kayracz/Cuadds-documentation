@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuadd_docs=self.webpackChunkcuadd_docs||[]).push([[9990],{5646:s=>{s.exports=JSON.parse('{"permalink":"/es/blog/tags/cuadds","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

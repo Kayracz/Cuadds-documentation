@@ -1,300 +1,358 @@
 {
-  "/es/blog-890": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-914": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---docusaurus-debug-318-fdb"
+    }
+  },
+  "/__docusaurus/debug/config-96a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-318-fdb"
+    }
+  },
+  "/__docusaurus/debug/content-c20": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-318-fdb"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-489": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-318-fdb"
+    }
+  },
+  "/__docusaurus/debug/metadata-f28": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-318-fdb"
+    }
+  },
+  "/__docusaurus/debug/registry-f07": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-318-fdb"
+    }
+  },
+  "/__docusaurus/debug/routes-801": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-318-fdb"
+    }
+  },
+  "/blog-62d": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogc-15-573"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "8f121332"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "75821858"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "4287ef1a"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "8fd5e00a"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/es/blog/archive-266": {
-    "__comp": "9e4087bc",
+  "/blog/archive-10f": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "archive": "95c68178"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/es/blog/caos-creativo-18f": {
-    "__comp": "ccc49370",
+  "/blog/caos-creativo-e9f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "c153b715"
+      "data": {
+        "blogMetadata": "blogMetadata---blog-caos-creativoace-a0c"
+      },
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
-    "content": "035bc4ff"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-caos-creativo-736-f9f"
   },
-  "/es/blog/el-poder-de-la-flexibilidad-b31": {
-    "__comp": "ccc49370",
+  "/blog/el-poder-de-la-flexibilidad-b7d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "c153b715"
+      "data": {
+        "blogMetadata": "blogMetadata---blog-caos-creativoace-a0c"
+      },
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
-    "content": "ec424c59"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-el-poder-de-la-flexibilidade-27-28c"
   },
-  "/es/blog/HOLAAA-383": {
-    "__comp": "ccc49370",
+  "/blog/tags-b45": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
-    "content": "081be14e"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
-  "/es/blog/tags-3a2": {
-    "__comp": "01a85c17",
+  "/blog/tags/blog-ace": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
-    "tags": "8df6de9b"
-  },
-  "/es/blog/tags/blog-697": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "c153b715"
-    },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "8f121332"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "tag": "7cc8c251",
-    "listMetadata": "670e4bce"
+    "tag": "tag---blog-tags-blog-631-7a2",
+    "listMetadata": "listMetadata---blog-tags-blog-3-f-3-eab"
   },
-  "/es/blog/tags/cuadds-3a0": {
-    "__comp": "6875c492",
+  "/blog/tags/cuadds-45d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "8f121332"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "tag": "807c42df",
-    "listMetadata": "8b954d9b"
+    "tag": "tag---blog-tags-cuadds-05-e-ecf",
+    "listMetadata": "listMetadata---blog-tags-cuaddsd-69-2e6"
   },
-  "/es/blog/tags/docusaurus-6e2": {
-    "__comp": "6875c492",
+  "/blog/tags/docusaurus-b26": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "4287ef1a"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "56d67b74",
-    "listMetadata": "394de314"
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
-  "/es/blog/tags/hola-0ed": {
-    "__comp": "6875c492",
+  "/blog/tags/hola-735": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "4287ef1a"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "2cfd51eb",
-    "listMetadata": "12ef758d"
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/es/blog/tags/productividad-2a4": {
-    "__comp": "6875c492",
+  "/blog/tags/productividad-252": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "75821858"
+        "content": "content---blog-871-381"
       }
     ],
-    "tag": "f3591a8d",
-    "listMetadata": "2e328696"
+    "tag": "tag---blog-tags-productividad-389-8bf",
+    "listMetadata": "listMetadata---blog-tags-productividad-64-a-29d"
   },
-  "/es/blog/tags/productivity-27d": {
-    "__comp": "6875c492",
+  "/blog/tags/productivity-4a0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "8f121332"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "tag": "d7936a1a",
-    "listMetadata": "3ccff8c5"
+    "tag": "tag---blog-tags-productivity-96-d-364",
+    "listMetadata": "listMetadata---blog-tags-productivity-3-fc-17e"
   },
-  "/es/blog/tags/trabajoenequipo-e83": {
-    "__comp": "6875c492",
+  "/blog/tags/trabajoenequipo-dcf": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "c153b715"
+      "plugin": "plugin---blogc-15-573"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "75821858"
+        "content": "content---blog-871-381"
       }
     ],
-    "tag": "955ccd14",
-    "listMetadata": "9e7f651d"
+    "tag": "tag---blog-tags-trabajoenequipoc-40-266",
+    "listMetadata": "listMetadata---blog-tags-trabajoenequipo-3-bd-b96"
   },
-  "/es/docs-ac1": {
-    "__comp": "1be78505",
+  "/blog/welcome-62a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "347542ad"
+      "data": {
+        "blogMetadata": "blogMetadata---blog-caos-creativoace-a0c"
+      },
+      "plugin": "plugin---blogc-15-573"
     },
-    "versionMetadata": "935f2afb"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/es/docs/en/Collaboration/AddYourTeam-264": {
-    "__comp": "17896441",
-    "content": "21b69429"
-  },
-  "/es/docs/en/Collaboration/Chat-b65": {
-    "__comp": "17896441",
-    "content": "f1641398"
-  },
-  "/es/docs/en/Cuadd Options/Bookmarks-61e": {
-    "__comp": "17896441",
-    "content": "2b25b509"
-  },
-  "/es/docs/en/Cuadd Options/Calendar-510": {
-    "__comp": "17896441",
-    "content": "3f3a85df"
-  },
-  "/es/docs/en/Cuadd Options/CuaddOptionMenu-983": {
-    "__comp": "17896441",
-    "content": "70a77dc7"
-  },
-  "/es/docs/en/Cuadd Options/Deletion-a8a": {
-    "__comp": "17896441",
-    "content": "4fb5ac6e"
-  },
-  "/es/docs/en/Cuadd Options/Duplication-7b2": {
-    "__comp": "17896441",
-    "content": "b7e5e837"
-  },
-  "/es/docs/en/Cuadd Options/Files-c4a": {
-    "__comp": "17896441",
-    "content": "d2e06c0f"
-  },
-  "/es/docs/en/Cuadd Options/Movement-11e": {
-    "__comp": "17896441",
-    "content": "50e2e05b"
-  },
-  "/es/docs/en/Cuadd Options/Reflections-1a4": {
-    "__comp": "17896441",
-    "content": "46097383"
-  },
-  "/es/docs/en/Cuadd Options/Styling-41c": {
-    "__comp": "17896441",
-    "content": "3a53f993"
-  },
-  "/es/docs/en/Cuadd Options/TaskAndNote-a41": {
-    "__comp": "17896441",
-    "content": "c06155d0"
-  },
-  "/es/docs/en/cuaddsPhilosophy-8dc": {
-    "__comp": "17896441",
-    "content": "aa427d75"
-  },
-  "/es/docs/en/intro-441": {
-    "__comp": "17896441",
-    "content": "cafa3d4e"
-  },
-  "/es/docs/en/PlansAndSubscriptions/-278": {
-    "__comp": "17896441",
-    "content": "59d73de8"
-  },
-  "/es/docs/en/Settings/-874": {
-    "__comp": "17896441",
-    "content": "bdf022bb"
-  },
-  "/es/docs/es/Collaboration/AddYourTeam-960": {
-    "__comp": "17896441",
-    "content": "ae691807"
-  },
-  "/es/docs/es/Collaboration/Chat-35b": {
-    "__comp": "17896441",
-    "content": "3ec7b676"
-  },
-  "/es/docs/es/Cuadd Options/Bookmarks-c94": {
-    "__comp": "17896441",
-    "content": "cab658f2"
-  },
-  "/es/docs/es/Cuadd Options/Calendar-bef": {
-    "__comp": "17896441",
-    "content": "33c39fd9"
-  },
-  "/es/docs/es/Cuadd Options/CuaddOptionMenu-b80": {
-    "__comp": "17896441",
-    "content": "ac6d062f"
-  },
-  "/es/docs/es/Cuadd Options/Deletion-e4c": {
-    "__comp": "17896441",
-    "content": "feec3e6d"
-  },
-  "/es/docs/es/Cuadd Options/Duplication-eb4": {
-    "__comp": "17896441",
-    "content": "a76041a8"
-  },
-  "/es/docs/es/Cuadd Options/Files-f58": {
-    "__comp": "17896441",
-    "content": "569fd814"
-  },
-  "/es/docs/es/Cuadd Options/Movement-d76": {
-    "__comp": "17896441",
-    "content": "78c0dedd"
-  },
-  "/es/docs/es/Cuadd Options/Reflections-df9": {
-    "__comp": "17896441",
-    "content": "2b1c0480"
-  },
-  "/es/docs/es/Cuadd Options/Styling-916": {
-    "__comp": "17896441",
-    "content": "5a3e9d07"
-  },
-  "/es/docs/es/Cuadd Options/TaskAndNote-802": {
-    "__comp": "17896441",
-    "content": "78ec32a1"
-  },
-  "/es/docs/es/intro-76c": {
-    "__comp": "17896441",
-    "content": "a1fb4550"
-  },
-  "/es/docs/es/PlansAndSubscriptions/-13e": {
-    "__comp": "17896441",
-    "content": "05027105"
-  },
-  "/es/docs/es/Settings/-c37": {
-    "__comp": "17896441",
-    "content": "b6c23939"
-  },
-  "/es/docs/intro-c93": {
-    "__comp": "17896441",
-    "content": "359fb69f"
-  },
-  "/es/-9ee": {
-    "__comp": "c4f5d8e4",
+  "/docs-8af": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "99bc02ea"
+      "plugin": "plugin---docs-347-83e"
+    }
+  },
+  "/docs-705": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-4a0": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/en/Collaboration/AddYourTeam-1e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-collaboration-add-your-team-21-b-0c3"
+  },
+  "/docs/en/Collaboration/Chat-2d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-collaboration-chatf-16-ff7"
+  },
+  "/docs/en/Cuadd Options/Bookmarks-2dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-bookmarks-2-b-2-c48"
+  },
+  "/docs/en/Cuadd Options/Calendar-827": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-calendar-3-f-3-f5e"
+  },
+  "/docs/en/Cuadd Options/CuaddOptionMenu-d13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-cuadd-option-menu-70-a-179"
+  },
+  "/docs/en/Cuadd Options/Deletion-42f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-deletion-4-fb-d01"
+  },
+  "/docs/en/Cuadd Options/Duplication-dca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-duplicationb-7-e-e09"
+  },
+  "/docs/en/Cuadd Options/Files-205": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-filesd-2-e-c29"
+  },
+  "/docs/en/Cuadd Options/Movement-989": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-movement-50-e-896"
+  },
+  "/docs/en/Cuadd Options/Reflections-9c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-reflections-460-2a5"
+  },
+  "/docs/en/Cuadd Options/Styling-474": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-styling-3-a-5-523"
+  },
+  "/docs/en/Cuadd Options/TaskAndNote-4ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadd-options-task-and-notec-06-40f"
+  },
+  "/docs/en/cuaddsPhilosophy-e9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-cuadds-philosophyaa-4-efb"
+  },
+  "/docs/en/intro-5a9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-introcaf-893"
+  },
+  "/docs/en/PlansAndSubscriptions/-5c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-plans-and-subscriptions-59-d-b86"
+  },
+  "/docs/en/Settings/-405": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-en-settings-bdf-06a"
+  },
+  "/docs/es/Collaboration/AddYourTeam-693": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-collaboration-add-your-teamae-6-dc7"
+  },
+  "/docs/es/Collaboration/Chat-f5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-collaboration-chat-3-ec-b0f"
+  },
+  "/docs/es/Cuadd Options/Bookmarks-7b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-bookmarkscab-46c"
+  },
+  "/docs/es/Cuadd Options/Calendar-88c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-calendar-33-c-a9b"
+  },
+  "/docs/es/Cuadd Options/CuaddOptionMenu-d0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-cuadd-option-menuac-6-b0e"
+  },
+  "/docs/es/Cuadd Options/Deletion-264": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-deletionfee-0ff"
+  },
+  "/docs/es/Cuadd Options/Duplication-3c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-duplicationa-76-685"
+  },
+  "/docs/es/Cuadd Options/Files-108": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-files-569-377"
+  },
+  "/docs/es/Cuadd Options/Movement-055": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-movement-78-c-138"
+  },
+  "/docs/es/Cuadd Options/Reflections-88a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-reflections-2-b-1-ab3"
+  },
+  "/docs/es/Cuadd Options/Styling-a9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-styling-5-a-3-757"
+  },
+  "/docs/es/Cuadd Options/TaskAndNote-70d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-cuadd-options-task-and-note-78-e-47f"
+  },
+  "/docs/es/intro-ad7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-introa-1-f-83d"
+  },
+  "/docs/es/PlansAndSubscriptions/-c82": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-plans-and-subscriptions-050-40a"
+  },
+  "/docs/es/Settings/-55b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-es-settings-b-6-c-0e1"
+  },
+  "/docs/intro-c95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-5-b-4-3db"
+  },
+  "/-6c1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---99-b-f14"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

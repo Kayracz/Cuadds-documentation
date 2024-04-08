@@ -7,7 +7,7 @@ export default {
   "title": "Cuadds",
   "tagline": "The freedom to organize yourself any way YOU want",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/es/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/cuadds.ico",
@@ -316,6 +316,7 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
@@ -330,6 +331,12 @@ export default {
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {
-    "mermaid": false
+    "format": "mdx",
+    "mermaid": false,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    }
   }
 };

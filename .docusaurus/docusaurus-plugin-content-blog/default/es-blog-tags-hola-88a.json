@@ -2,5 +2,6 @@
   "label": "hola",
   "permalink": "/es/blog/tags/hola",
   "allTagsPath": "/es/blog/tags",
-  "count": 1
+  "count": 1,
+  "unlisted": false
 }

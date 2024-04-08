@@ -4,7 +4,6 @@
   "title": "Welcome to our Cuadd tutorials!",
   "description": "Welcome to our Cuadds blog!",
   "date": "2021-08-26T00:00:00.000Z",
-  "formattedDate": "26 de agosto de 2021",
   "tags": [
     {
       "label": "Cuadds",
@@ -50,6 +49,7 @@
       "Blog"
     ]
   },
+  "unlisted": false,
   "nextItem": {
     "title": "Poniendo orden al caos creativo HOLAA",
     "permalink": "/es/blog/caos-creativo"

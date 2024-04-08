@@ -1,23 +1,23 @@
 {
-  "unversionedId": "es/Collaboration/AddYourTeam",
   "id": "es/Collaboration/AddYourTeam",
   "title": "Invita a tus compañeros de equipo",
   "description": "Dentro de cada Cuadd, encontrarás este icono:",
   "source": "@site/docs/es/Collaboration/AddYourTeam.md",
   "sourceDirName": "es/Collaboration",
   "slug": "/es/Collaboration/AddYourTeam",
-  "permalink": "/es/docs/es/Collaboration/AddYourTeam",
+  "permalink": "/docs/es/Collaboration/AddYourTeam",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "es",
   "previous": {
     "title": "Eliminar",
-    "permalink": "/es/docs/es/Cuadd Options/Deletion"
+    "permalink": "/docs/es/Cuadd Options/Deletion"
   },
   "next": {
     "title": "Chatea con tu equipo",
-    "permalink": "/es/docs/es/Collaboration/Chat"
+    "permalink": "/docs/es/Collaboration/Chat"
   }
 }

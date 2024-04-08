@@ -4,7 +4,6 @@
   "title": "El Poder de la Flexibilidad",
   "description": "¡Hola a todos los fans del trabajo y la productividad! Hoy queremos hablarles sobre un tema clave en el mundo laboral: la flexibilidad en la organización de tareas. ¿Alguna vez te has sentido limitado por un enfoque de \"talla única\" para la gestión de proyectos? ¿Te has dado cuenta de que eso puede apagar tu creatividad y disminuir tu productividad?",
   "date": "2019-05-28T00:00:00.000Z",
-  "formattedDate": "May 28, 2019",
   "tags": [
     {
       "label": "hola",
@@ -37,6 +36,7 @@
       "docusaurus"
     ]
   },
+  "unlisted": false,
   "prevItem": {
     "title": "Poniendo orden al caos creativo",
     "permalink": "/blog/caos-creativo"

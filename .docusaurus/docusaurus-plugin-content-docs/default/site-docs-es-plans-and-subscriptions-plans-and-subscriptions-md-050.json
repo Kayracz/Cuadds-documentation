@@ -1,23 +1,23 @@
 {
-  "unversionedId": "es/PlansAndSubscriptions/PlansAndSubscriptions",
   "id": "es/PlansAndSubscriptions/PlansAndSubscriptions",
   "title": "Planes y Suscripciones",
   "description": "Plan Early Supporter",
   "source": "@site/docs/es/PlansAndSubscriptions/PlansAndSubscriptions.md",
   "sourceDirName": "es/PlansAndSubscriptions",
   "slug": "/es/PlansAndSubscriptions/",
-  "permalink": "/es/docs/es/PlansAndSubscriptions/",
+  "permalink": "/docs/es/PlansAndSubscriptions/",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "es",
   "previous": {
     "title": "Chatea con tu equipo",
-    "permalink": "/es/docs/es/Collaboration/Chat"
+    "permalink": "/docs/es/Collaboration/Chat"
   },
   "next": {
     "title": "Configuración",
-    "permalink": "/es/docs/es/Settings/"
+    "permalink": "/docs/es/Settings/"
   }
 }

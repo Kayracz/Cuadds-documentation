@@ -1,19 +1,19 @@
 {
-  "unversionedId": "en/Settings/Settings",
   "id": "en/Settings/Settings",
   "title": "Settings",
   "description": "In order to have an overview of your Cuadds account, you can access your settings menu by clicking on  the three lined icon on your navigation bar",
   "source": "@site/docs/en/Settings/Settings.md",
   "sourceDirName": "en/Settings",
   "slug": "/en/Settings/",
-  "permalink": "/es/docs/en/Settings/",
+  "permalink": "/docs/en/Settings/",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "en",
   "previous": {
     "title": "Plans and Subscriptions",
-    "permalink": "/es/docs/en/PlansAndSubscriptions/"
+    "permalink": "/docs/en/PlansAndSubscriptions/"
   }
 }

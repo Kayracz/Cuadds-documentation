@@ -1,23 +1,23 @@
 {
-  "unversionedId": "es/Cuadd Options/Reflections",
   "id": "es/Cuadd Options/Reflections",
   "title": "Reflejos",
   "description": "Los \"Reflejos\" sirven como espejos de tus Cuadds originales. Los Cuadds en forma de reflejos serán copias accesibles de tu Cuadd original. Cualquier acción que realices en tus reflejos o en tu Cuadd original se reflejará en todas ellas. Son una excelente manera de compartir información con otros colaboradores en diferentes Cuadds sin tener que copiar o mover la información.",
   "source": "@site/docs/es/Cuadd Options/Reflections.md",
   "sourceDirName": "es/Cuadd Options",
   "slug": "/es/Cuadd Options/Reflections",
-  "permalink": "/es/docs/es/Cuadd Options/Reflections",
+  "permalink": "/docs/es/Cuadd Options/Reflections",
   "draft": false,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "es",
   "previous": {
     "title": "Archivos",
-    "permalink": "/es/docs/es/Cuadd Options/Files"
+    "permalink": "/docs/es/Cuadd Options/Files"
   },
   "next": {
     "title": "Duplicación",
-    "permalink": "/es/docs/es/Cuadd Options/Duplication"
+    "permalink": "/docs/es/Cuadd Options/Duplication"
   }
 }

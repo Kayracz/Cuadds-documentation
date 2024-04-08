@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcuadd_docs=self.webpackChunkcuadd_docs||[]).push([[3481],{5247:s=>{s.exports=JSON.parse('{"label":"Cuadds","permalink":"/es/blog/tags/cuadds","allTagsPath":"/es/blog/tags","count":1,"unlisted":false}')}}]);

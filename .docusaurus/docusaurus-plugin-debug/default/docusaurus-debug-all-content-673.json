@@ -18,7 +18,6 @@
           "contentPathLocalized": "/Users/kayraczerniewicz/Code/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "en/Collaboration/AddYourTeam",
               "id": "en/Collaboration/AddYourTeam",
               "title": "Add your team members",
               "description": "Inside each Cuadd you will see this icon:",
@@ -27,6 +26,7 @@
               "slug": "/en/Collaboration/AddYourTeam",
               "permalink": "/docs/en/Collaboration/AddYourTeam",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -41,7 +41,6 @@
               }
             },
             {
-              "unversionedId": "en/Collaboration/Chat",
               "id": "en/Collaboration/Chat",
               "title": "Chat with your team",
               "description": "Inside any Cuadd, you will see this icon:",
@@ -50,6 +49,7 @@
               "slug": "/en/Collaboration/Chat",
               "permalink": "/docs/en/Collaboration/Chat",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -64,7 +64,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Bookmarks",
               "id": "en/Cuadd Options/Bookmarks",
               "title": "Bookmarks",
               "description": "Add your favorite Cuadds to your bookmarks navigation bar!",
@@ -73,6 +72,7 @@
               "slug": "/en/Cuadd Options/Bookmarks",
               "permalink": "/docs/en/Cuadd Options/Bookmarks",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -87,7 +87,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Calendar",
               "id": "en/Cuadd Options/Calendar",
               "title": "Calendar",
               "description": "Sometimes, we may want to visualize our Cuadds on a calendar, set due dates and times for projects, events, and more.",
@@ -96,6 +95,7 @@
               "slug": "/en/Cuadd Options/Calendar",
               "permalink": "/docs/en/Cuadd Options/Calendar",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -110,7 +110,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/CuaddOptionMenu",
               "id": "en/Cuadd Options/CuaddOptionMenu",
               "title": "Option menu",
               "description": "1. Place your cursor over a cuadd (or tap on it in mobile devices) to view your options.",
@@ -119,6 +118,7 @@
               "slug": "/en/Cuadd Options/CuaddOptionMenu",
               "permalink": "/docs/en/Cuadd Options/CuaddOptionMenu",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -133,7 +133,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Deletion",
               "id": "en/Cuadd Options/Deletion",
               "title": "Deleting",
               "description": "To delete Cuadds, you can individually select the option menu for each Cuadd and delete them one by one.",
@@ -142,6 +141,7 @@
               "slug": "/en/Cuadd Options/Deletion",
               "permalink": "/docs/en/Cuadd Options/Deletion",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -156,7 +156,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Duplication",
               "id": "en/Cuadd Options/Duplication",
               "title": "Duplication",
               "description": "To copy or duplicate a Cuadd and create a new one with the same information, you can use the \"Duplicate In...\" button in your cuadds option menu. This will create a copy of the Cuadd you are in.",
@@ -165,6 +164,7 @@
               "slug": "/en/Cuadd Options/Duplication",
               "permalink": "/docs/en/Cuadd Options/Duplication",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -179,7 +179,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Files",
               "id": "en/Cuadd Options/Files",
               "title": "Files",
               "description": "Add your pictures, videos, or any type of file to your Cuadds!",
@@ -188,6 +187,7 @@
               "slug": "/en/Cuadd Options/Files",
               "permalink": "/docs/en/Cuadd Options/Files",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -202,7 +202,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Movement",
               "id": "en/Cuadd Options/Movement",
               "title": "Movement",
               "description": "To move our Cuadds from one Cuadd to another, we can do this by clicking on the \"Move to\" button in the cuadd option menu.",
@@ -211,6 +210,7 @@
               "slug": "/en/Cuadd Options/Movement",
               "permalink": "/docs/en/Cuadd Options/Movement",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -225,7 +225,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Reflections",
               "id": "en/Cuadd Options/Reflections",
               "title": "Reflections",
               "description": "\"Reflections\" serve as mirrors to your original Cuadds. Cuadds in the form of reflections will be accessible copies of your Cuadd. Any action you perform in your reflections or on your original Cuadd will be reflected across all of them. They are a great way to share information to other collaborators in other cuadds without having to copy",
@@ -234,6 +233,7 @@
               "slug": "/en/Cuadd Options/Reflections",
               "permalink": "/docs/en/Cuadd Options/Reflections",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -248,7 +248,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/Styling",
               "id": "en/Cuadd Options/Styling",
               "title": "Styling",
               "description": "Place your cursor over a cuadd (or tap on it in mobile devices) to view your styling options.",
@@ -257,6 +256,7 @@
               "slug": "/en/Cuadd Options/Styling",
               "permalink": "/docs/en/Cuadd Options/Styling",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -271,7 +271,6 @@
               }
             },
             {
-              "unversionedId": "en/Cuadd Options/TaskAndNote",
               "id": "en/Cuadd Options/TaskAndNote",
               "title": "Tasks and Notes",
               "description": "By clicking anywhere on the grid, two elements will appear: a note and a task.",
@@ -280,6 +279,7 @@
               "slug": "/en/Cuadd Options/TaskAndNote",
               "permalink": "/docs/en/Cuadd Options/TaskAndNote",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -294,7 +294,6 @@
               }
             },
             {
-              "unversionedId": "en/cuaddsPhilosophy",
               "id": "en/cuaddsPhilosophy",
               "title": "Cuadds Philosophy",
               "description": "",
@@ -303,12 +302,12 @@
               "slug": "/en/cuaddsPhilosophy",
               "permalink": "/docs/en/cuaddsPhilosophy",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {}
             },
             {
-              "unversionedId": "en/intro",
               "id": "en/intro",
               "title": "Overview",
               "description": "What is a Cuadd?",
@@ -317,6 +316,7 @@
               "slug": "/en/intro",
               "permalink": "/docs/en/intro",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -331,7 +331,6 @@
               }
             },
             {
-              "unversionedId": "en/PlansAndSubscriptions/PlansAndSubscriptions",
               "id": "en/PlansAndSubscriptions/PlansAndSubscriptions",
               "title": "Plans and Subscriptions",
               "description": "Early Supporter Plan",
@@ -340,6 +339,7 @@
               "slug": "/en/PlansAndSubscriptions/",
               "permalink": "/docs/en/PlansAndSubscriptions/",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -354,7 +354,6 @@
               }
             },
             {
-              "unversionedId": "en/Settings/Settings",
               "id": "en/Settings/Settings",
               "title": "Settings",
               "description": "In order to have an overview of your Cuadds account, you can access your settings menu by clicking on  the three lined icon on your navigation bar",
@@ -363,6 +362,7 @@
               "slug": "/en/Settings/",
               "permalink": "/docs/en/Settings/",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -373,7 +373,6 @@
               }
             },
             {
-              "unversionedId": "es/Collaboration/AddYourTeam",
               "id": "es/Collaboration/AddYourTeam",
               "title": "Invita a tus compañeros de equipo",
               "description": "Dentro de cada Cuadd, encontrarás este icono:",
@@ -382,6 +381,7 @@
               "slug": "/es/Collaboration/AddYourTeam",
               "permalink": "/docs/es/Collaboration/AddYourTeam",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -396,7 +396,6 @@
               }
             },
             {
-              "unversionedId": "es/Collaboration/Chat",
               "id": "es/Collaboration/Chat",
               "title": "Chatea con tu equipo",
               "description": "Dentro de cualquier Cuadd, verás este ícono:",
@@ -405,6 +404,7 @@
               "slug": "/es/Collaboration/Chat",
               "permalink": "/docs/es/Collaboration/Chat",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -419,7 +419,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Bookmarks",
               "id": "es/Cuadd Options/Bookmarks",
               "title": "Marcadores",
               "description": "¡Agrega tus Cuadds favoritos a tu barra de marcadores!",
@@ -428,6 +427,7 @@
               "slug": "/es/Cuadd Options/Bookmarks",
               "permalink": "/docs/es/Cuadd Options/Bookmarks",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -442,7 +442,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Calendar",
               "id": "es/Cuadd Options/Calendar",
               "title": "Calendario",
               "description": "En ocasiones, es posible que deseemos visualizar nuestros Cuadds en un calendario, establecer fechas y horas de vencimiento para proyectos, eventos y más.",
@@ -451,6 +450,7 @@
               "slug": "/es/Cuadd Options/Calendar",
               "permalink": "/docs/es/Cuadd Options/Calendar",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -465,7 +465,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/CuaddOptionMenu",
               "id": "es/Cuadd Options/CuaddOptionMenu",
               "title": "Menú de opciones",
               "description": "1. Coloque el cursor sobre un cuadro (o tóquelo en dispositivos móviles) para ver sus opciones.",
@@ -474,6 +473,7 @@
               "slug": "/es/Cuadd Options/CuaddOptionMenu",
               "permalink": "/docs/es/Cuadd Options/CuaddOptionMenu",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -488,7 +488,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Deletion",
               "id": "es/Cuadd Options/Deletion",
               "title": "Eliminar",
               "description": "Para eliminar Cuadds, puedes seleccionar individualmente el menú de opciones para cada Cuadd y eliminarlos uno por uno.",
@@ -497,6 +496,7 @@
               "slug": "/es/Cuadd Options/Deletion",
               "permalink": "/docs/es/Cuadd Options/Deletion",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -511,7 +511,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Duplication",
               "id": "es/Cuadd Options/Duplication",
               "title": "Duplicación",
               "description": "Para copiar o duplicar un Cuadd y crear uno nuevo con la misma información, puedes utilizar el botón \"Duplicar en...\" en el menú de opciones de los Cuadds. Esto creará una copia del Cuadd en el que te encuentras.",
@@ -520,6 +519,7 @@
               "slug": "/es/Cuadd Options/Duplication",
               "permalink": "/docs/es/Cuadd Options/Duplication",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -534,7 +534,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Files",
               "id": "es/Cuadd Options/Files",
               "title": "Archivos",
               "description": "¡Agrega tus imágenes, videos o cualquier tipo de archivo a tus Cuadds!",
@@ -543,6 +542,7 @@
               "slug": "/es/Cuadd Options/Files",
               "permalink": "/docs/es/Cuadd Options/Files",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -557,7 +557,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Movement",
               "id": "es/Cuadd Options/Movement",
               "title": "Movimiento",
               "description": "Para mover nuestros Cuadds de uno a otro, podemos hacerlo haciendo clic en el botón \"Mover a\" en el menú de opciones de tu Cuadd.",
@@ -566,6 +565,7 @@
               "slug": "/es/Cuadd Options/Movement",
               "permalink": "/docs/es/Cuadd Options/Movement",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -580,7 +580,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Reflections",
               "id": "es/Cuadd Options/Reflections",
               "title": "Reflejos",
               "description": "Los \"Reflejos\" sirven como espejos de tus Cuadds originales. Los Cuadds en forma de reflejos serán copias accesibles de tu Cuadd original. Cualquier acción que realices en tus reflejos o en tu Cuadd original se reflejará en todas ellas. Son una excelente manera de compartir información con otros colaboradores en diferentes Cuadds sin tener que copiar o mover la información.",
@@ -589,6 +588,7 @@
               "slug": "/es/Cuadd Options/Reflections",
               "permalink": "/docs/es/Cuadd Options/Reflections",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -603,7 +603,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/Styling",
               "id": "es/Cuadd Options/Styling",
               "title": "Estilo",
               "description": "Coloque el cursor sobre un cuadd (o tóquelo en dispositivos móviles) para ver sus opciones de estilo.",
@@ -612,6 +611,7 @@
               "slug": "/es/Cuadd Options/Styling",
               "permalink": "/docs/es/Cuadd Options/Styling",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -626,7 +626,6 @@
               }
             },
             {
-              "unversionedId": "es/Cuadd Options/TaskAndNote",
               "id": "es/Cuadd Options/TaskAndNote",
               "title": "Tareas y/o notas",
               "description": "Al hacer clic en cualquier lugar de la grilla en cuadds, aparecerán dos elementos: una nota y una tarea.",
@@ -635,6 +634,7 @@
               "slug": "/es/Cuadd Options/TaskAndNote",
               "permalink": "/docs/es/Cuadd Options/TaskAndNote",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -649,7 +649,6 @@
               }
             },
             {
-              "unversionedId": "es/intro",
               "id": "es/intro",
               "title": "Descripción general",
               "description": "¿Qué es un cuadd?",
@@ -658,6 +657,7 @@
               "slug": "/es/intro",
               "permalink": "/docs/es/intro",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -672,7 +672,6 @@
               }
             },
             {
-              "unversionedId": "es/PlansAndSubscriptions/PlansAndSubscriptions",
               "id": "es/PlansAndSubscriptions/PlansAndSubscriptions",
               "title": "Planes y Suscripciones",
               "description": "Plan Early Supporter",
@@ -681,6 +680,7 @@
               "slug": "/es/PlansAndSubscriptions/",
               "permalink": "/docs/es/PlansAndSubscriptions/",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -695,7 +695,6 @@
               }
             },
             {
-              "unversionedId": "es/Settings/Settings",
               "id": "es/Settings/Settings",
               "title": "Configuración",
               "description": "Para obtener una visión general de tu cuenta de Cuadds, puedes acceder al menú de configuración haciendo clic en el ícono de tres líneas en tu barra de navegación.",
@@ -704,6 +703,7 @@
               "slug": "/es/Settings/",
               "permalink": "/docs/es/Settings/",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -714,7 +714,6 @@
               }
             },
             {
-              "unversionedId": "intro",
               "id": "intro",
               "title": "Cuadds Documentation",
               "description": "⚡️ Welcome to our cuadds documentation.",
@@ -723,6 +722,7 @@
               "slug": "/intro",
               "permalink": "/docs/intro",
               "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -956,7 +956,6 @@
             "title": "Welcome to our Cuadd tutorials!",
             "description": "Welcome to our Cuadds blog!",
             "date": "2021-08-26T00:00:00.000Z",
-            "formattedDate": "August 26, 2021",
             "tags": [
               {
                 "label": "Cuadds",
@@ -1002,6 +1001,7 @@
                 "Blog"
               ]
             },
+            "unlisted": false,
             "nextItem": {
               "title": "Poniendo orden al caos creativo",
               "permalink": "/blog/caos-creativo"
@@ -1017,7 +1017,6 @@
             "title": "Poniendo orden al caos creativo",
             "description": "Hola cuadders, soy Ana, Gestora de Cuentas de Orgánica Consultoría, una agencia de marketing amante de Cuadds.",
             "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
             "tags": [
               {
                 "label": "productividad",
@@ -1050,6 +1049,7 @@
                 "trabajoenequipo"
               ]
             },
+            "unlisted": false,
             "prevItem": {
               "title": "Welcome to our Cuadd tutorials!",
               "permalink": "/blog/welcome"
@@ -1069,7 +1069,6 @@
             "title": "El Poder de la Flexibilidad",
             "description": "¡Hola a todos los fans del trabajo y la productividad! Hoy queremos hablarles sobre un tema clave en el mundo laboral: la flexibilidad en la organización de tareas. ¿Alguna vez te has sentido limitado por un enfoque de \"talla única\" para la gestión de proyectos? ¿Te has dado cuenta de que eso puede apagar tu creatividad y disminuir tu productividad?",
             "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
             "tags": [
               {
                 "label": "hola",
@@ -1102,6 +1101,7 @@
                 "docusaurus"
               ]
             },
+            "unlisted": false,
             "prevItem": {
               "title": "Poniendo orden al caos creativo",
               "permalink": "/blog/caos-creativo"
@@ -1150,7 +1150,8 @@
                 "blogTitle": "Blog"
               }
             }
-          ]
+          ],
+          "unlisted": false
         },
         "/blog/tags/productivity": {
           "label": "Productivity",
@@ -1173,7 +1174,8 @@
                 "blogTitle": "Blog"
               }
             }
-          ]
+          ],
+          "unlisted": false
         },
         "/blog/tags/blog": {
           "label": "Blog",
@@ -1196,7 +1198,8 @@
                 "blogTitle": "Blog"
               }
             }
-          ]
+          ],
+          "unlisted": false
         },
         "/blog/tags/productividad": {
           "label": "productividad",
@@ -1219,7 +1222,8 @@
                 "blogTitle": "Blog"
               }
             }
-          ]
+          ],
+          "unlisted": false
         },
         "/blog/tags/trabajoenequipo": {
           "label": "trabajoenequipo",
@@ -1242,7 +1246,8 @@
                 "blogTitle": "Blog"
               }
             }
-          ]
+          ],
+          "unlisted": false
         },
         "/blog/tags/hola": {
           "label": "hola",
@@ -1265,7 +1270,8 @@
                 "blogTitle": "Blog"
               }
             }
-          ]
+          ],
+          "unlisted": false
         },
         "/blog/tags/docusaurus": {
           "label": "docusaurus",
@@ -1288,7 +1294,8 @@
                 "blogTitle": "Blog"
               }
             }
-          ]
+          ],
+          "unlisted": false
         }
       },
       "blogTagsListPath": "/blog/tags"

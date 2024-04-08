@@ -2,5 +2,6 @@
   "label": "Blog",
   "permalink": "/es/blog/tags/blog",
   "allTagsPath": "/es/blog/tags",
-  "count": 1
+  "count": 1,
+  "unlisted": false
 }

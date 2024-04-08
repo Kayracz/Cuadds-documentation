@@ -8,7 +8,6 @@
         "title": "Welcome to our Cuadd tutorials!",
         "description": "Welcome to our Cuadds blog!",
         "date": "2021-08-26T00:00:00.000Z",
-        "formattedDate": "26 de agosto de 2021",
         "tags": [
           {
             "label": "Cuadds",
@@ -54,6 +53,7 @@
             "Blog"
           ]
         },
+        "unlisted": false,
         "nextItem": {
           "title": "Poniendo orden al caos creativo HOLAA",
           "permalink": "/es/blog/caos-creativo"
@@ -69,7 +69,6 @@
         "title": "Poniendo orden al caos creativo HOLAA",
         "description": "HOLAAA  Hola cuadders, soy Ana, Gestora de Cuentas de Orgánica Consultoría, una agencia de marketing amante de Cuadds.",
         "date": "2019-05-29T00:00:00.000Z",
-        "formattedDate": "29 de mayo de 2019",
         "tags": [
           {
             "label": "productividad",
@@ -102,6 +101,7 @@
             "trabajoenequipo"
           ]
         },
+        "unlisted": false,
         "prevItem": {
           "title": "Welcome to our Cuadd tutorials!",
           "permalink": "/es/blog/HOLAAA"
@@ -121,7 +121,6 @@
         "title": "El Poder de la Flexibilidad",
         "description": "¡Hola a todos los fans del trabajo y la productividad! Hoy queremos hablarles sobre un tema clave en el mundo laboral: la flexibilidad en la organización de tareas. ¿Alguna vez te has sentido limitado por un enfoque de \"talla única\" para la gestión de proyectos? ¿Te has dado cuenta de que eso puede apagar tu creatividad y disminuir tu productividad?",
         "date": "2019-05-28T00:00:00.000Z",
-        "formattedDate": "28 de mayo de 2019",
         "tags": [
           {
             "label": "hola",
@@ -154,6 +153,7 @@
             "docusaurus"
           ]
         },
+        "unlisted": false,
         "prevItem": {
           "title": "Poniendo orden al caos creativo HOLAA",
           "permalink": "/es/blog/caos-creativo"
